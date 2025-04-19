@@ -1,0 +1,801 @@
+,Prices,title,location,Model,Marque,Kilometrage,Etat,Annee_Modele,Premiere_main,Nombre_de_portes,Origine,Type_de_Carburant,boite_de_vitesse
+0,,Ford kuga 2022,"Autre secteur, Fès",Kuga,Ford,35 000 - 39 999,Neuf,2022,Oui,5,WW au Maroc,Diesel,Manuelle
+1,,Glc 63s essence hybride 2025,"Aïn Chock, Casablanca",Classe GLC,Mercedes-Benz,5 000 - 9 999,Neuf,2025,,5,Importée neuve,Essence,Automatique
+2,122 000 DH,Kia Picanto,"Safir, Tétouan",Picanto,Kia,25 000 - 29 999,Excellent,2024,Oui,5,WW au Maroc,Essence,Manuelle
+3,75 000 DH,Citroën 2 cv,"Sidi Ghanem, Marrakech",2 CV,Citroen,90 000 - 94 999,Très bon,1980 ou plus ancien,Non,5,WW au Maroc,Essence,Manuelle
+4,138 000 DH,Fiat Fiorino model 2024,"Hay Massira, Marrakech",Fiorino,Fiat,10 000 - 14 999,Excellent,2024,Oui,5,WW au Maroc,Diesel,Manuelle
+5,690 000 DH,Audi A3 Sportback Diesel Automatique 2024 à Tanger,"Malabata, Tanger",A3,Audi,0 - 4 999,Neuf,2024,,5,Importée neuve,Diesel,Automatique
+6,370 000 DH,Maserati Levante fin 2018,"Oasis, Casablanca",Levante,Maserati,120 000 - 129 999,Excellent,2018,Non,5,WW au Maroc,Diesel,Automatique
+7,190 000 DH,Renault Megane automatique Intense faible Km,"Autre secteur, Rabat",Megane,Renault,110 000 - 119 999,Excellent,2019,Oui,5,WW au Maroc,Diesel,Automatique
+8,,kia niro 2022,"Autre secteur, Fès",Niro,Kia,80 000 - 84 999,Neuf,2022,Oui,5,WW au Maroc,Essence,Automatique
+9,,Renault Arkana Hybride Automatique 2023 à Salé,"Hay Riad, Rabat",Arkana,Renault,0 - 4 999,Neuf,2023,Oui,5,WW au Maroc,Hybride,Automatique
+10,,Dacia duster 2022,"Centre, Fès",Duster,Dacia,60 000 - 64 999,Neuf,2022,Oui,5,WW au Maroc,Diesel,Manuelle
+11,,Hyundai creta 2022 automatic a tetouan,"Touabel, Tétouan",Creta,Hyundai,55 000 - 59 999,Neuf,2022,Oui,5,WW au Maroc,Diesel,Automatique
+12,159 000 DH,Golf 7 Diwana 2023,"Ancienne Médina, Meknès",Golf 7,Volkswagen,200 000 - 249 999,Neuf,2014,Non,5,Dédouanée,Diesel,Manuelle
+13,375 000 DH,Maserati Levante Diesel Automatique 2017,"Ain Sebaa, Casablanca",Levante,Maserati,140 000 - 149 999,Excellent,2017,Oui,5,Importée neuve,Diesel,Automatique
+14,320 000 DH,Audi Q3 Diesel Automatique 2019 à Casablanca,"2 Mars, Casablanca",Q3,Audi,90 000 - 94 999,Excellent,2019,Oui,5,WW au Maroc,Diesel,Automatique
+15,650 000 DH,Land Rover Range Rover Sport Diesel Automatique,"Hay Riad, Rabat",Range Rover Sport,Land Rover,80 000 - 84 999,Excellent,2018,Oui,5,Importée neuve,Diesel,Automatique
+16,118 000 DH,kia Picanto 2021,"Hay Massira, Marrakech",Picanto,Kia,90 000 - 94 999,Excellent,2021,Oui,5,WW au Maroc,Essence,Manuelle
+17,,Audi Q2 Diesel Automatique 2020 à Casablanca,"Aïn Chock, Casablanca",Q2,Audi,140 000 - 149 999,Excellent,2020,,,Dédouanée,Diesel,Automatique
+18,235 000 DH,Peugeot 3008 HDI,"Safir, Tétouan",3008,Peugeot,110 000 - 119 999,Excellent,2020,Oui,5,WW au Maroc,Diesel,Automatique
+19,,FORD MIUSTANG COLLECTION,"Hivernage, Marrakech",Mustang,Ford,45 000 - 49 999,Excellent,1998,Oui,3,Importée neuve,Essence,Automatique
+20,640 000 DH,Range Rover vogue très propre,"Autre secteur, Rabat",Megane,Renault,130 000 - 139 999,,2020,,,,Diesel,Automatique
+21,,Renault Express Diesel Manuelle,"Hay Hassani, Casablanca",Express,Renault,40 000 - 44 999,Excellent,2022,Oui,5,WW au Maroc,Diesel,Manuelle
+22,,fiat tipo diesel model 2020,"Cité Adrar, Agadir",Tipo,Fiat,50 000 - 54 999,Très bon,2020,Oui,5,WW au Maroc,Diesel,Manuelle
+23,670 000 DH,Mercedes-Benz Classe C Diesel Automatique 2022,"Hay Riad, Rabat",Classe C,Mercedes-Benz,95 000 - 99 999,Excellent,2022,Oui,5,Importée neuve,Diesel,Automatique
+24,153 000 DH,Opel combo,"Autre secteur, Meknès",Combo,Opel,90 000 - 94 999,Neuf,2019,Non,5,WW au Maroc,Diesel,Manuelle
+25,,kia ceed 2022,"Autre secteur, Fès",Ceed,Kia,65 000 - 69 999,Neuf,2022,Oui,5,WW au Maroc,Diesel,Automatique
+26,,AUDI Q8 Competition S-LINE 50tdi 2025,"Ain El Hayani, Tanger",Q8,Audi,0 - 4 999,Neuf,2025,Oui,5,Importée neuve,Diesel,Automatique
+27,,Seat Ateca Diesel Automatique 2021 à Settat,"Toute la ville, Settat",Ateca,Seat,110 000 - 119 999,Excellent,2021,Oui,5,Dédouanée,Diesel,Automatique
+28,,Bentley bentayga S Hybride,"Route de Casablanca, Marrakech",Bentayga,Bentley,15 000 - 19 999,Excellent,2024,Oui,5,Importée neuve,Hybride,Automatique
+29,96 000 DH,Fiat punto modèle 2019,"Hamria, Meknès",Punto,Fiat,110 000 - 119 999,Neuf,2019,Oui,5,WW au Maroc,Diesel,Manuelle
+30,115 000 DH,Ds4 full options automatique 6cv,"Toute la ville, Berrechid",DS4,DS,170 000 - 179 999,Excellent,2013,Non,5,WW au Maroc,Diesel,Automatique
+31,172 000 DH,Volkswagen touareg,"Toute la ville, Berrechid",Touareg,Volkswagen,160 000 - 169 999,Excellent,2017,Non,5,WW au Maroc,Diesel,Automatique
+32,360 000 DH,Tiguan R line,"Toute la ville, Chichaoua",Tiguan,Volkswagen,160 000 - 169 999,Excellent,2017,,5,Dédouanée,Diesel,Automatique
+33,220 000 DH,BMW SERIE 5 Diesel Automatique 2015 à Casablanca,"Autre secteur, Casablanca",Série 5,BMW,190 000 - 199 999,Bon,2015,Non,5,WW au Maroc,Diesel,Automatique
+34,,Dacia duster 2022,"Centre, Fès",Duster,Dacia,60 000 - 64 999,Neuf,2022,Oui,5,WW au Maroc,Diesel,Manuelle
+35,,Hyundai creta 2022 automatic a tetouan,"Touabel, Tétouan",Creta,Hyundai,55 000 - 59 999,Neuf,2022,Oui,5,WW au Maroc,Diesel,Automatique
+36,159 000 DH,Golf 7 Diwana 2023,"Ancienne Médina, Meknès",Golf 7,Volkswagen,200 000 - 249 999,Neuf,2014,Non,5,Dédouanée,Diesel,Manuelle
+37,375 000 DH,Maserati Levante Diesel Automatique 2017,"Ain Sebaa, Casablanca",Levante,Maserati,140 000 - 149 999,Excellent,2017,Oui,5,Importée neuve,Diesel,Automatique
+38,320 000 DH,Audi Q3 Diesel Automatique 2019 à Casablanca,"2 Mars, Casablanca",Q3,Audi,90 000 - 94 999,Excellent,2019,Oui,5,WW au Maroc,Diesel,Automatique
+39,650 000 DH,Land Rover Range Rover Sport Diesel Automatique,"Hay Riad, Rabat",Range Rover Sport,Land Rover,80 000 - 84 999,Excellent,2018,Oui,5,Importée neuve,Diesel,Automatique
+40,118 000 DH,kia Picanto 2021,"Hay Massira, Marrakech",Picanto,Kia,90 000 - 94 999,Excellent,2021,Oui,5,WW au Maroc,Essence,Manuelle
+41,,Audi Q2 Diesel Automatique 2020 à Casablanca,"Aïn Chock, Casablanca",Q2,Audi,140 000 - 149 999,Excellent,2020,,,Dédouanée,Diesel,Automatique
+42,235 000 DH,Peugeot 3008 HDI,"Safir, Tétouan",3008,Peugeot,110 000 - 119 999,Excellent,2020,Oui,5,WW au Maroc,Diesel,Automatique
+43,,FORD MIUSTANG COLLECTION,"Hivernage, Marrakech",Mustang,Ford,45 000 - 49 999,Excellent,1998,Oui,3,Importée neuve,Essence,Automatique
+44,640 000 DH,Range Rover vogue très propre,"Autre secteur, Rabat",Megane,Renault,130 000 - 139 999,,2020,,,,Diesel,Automatique
+45,,Renault Express Diesel Manuelle,"Hay Hassani, Casablanca",Express,Renault,40 000 - 44 999,Excellent,2022,Oui,5,WW au Maroc,Diesel,Manuelle
+46,,fiat tipo diesel model 2020,"Cité Adrar, Agadir",Tipo,Fiat,50 000 - 54 999,Très bon,2020,Oui,5,WW au Maroc,Diesel,Manuelle
+47,670 000 DH,Mercedes-Benz Classe C Diesel Automatique 2022,"Hay Riad, Rabat",Classe C,Mercedes-Benz,95 000 - 99 999,Excellent,2022,Oui,5,Importée neuve,Diesel,Automatique
+48,153 000 DH,Opel combo,"Autre secteur, Meknès",Combo,Opel,90 000 - 94 999,Neuf,2019,Non,5,WW au Maroc,Diesel,Manuelle
+49,,kia ceed 2022,"Autre secteur, Fès",Ceed,Kia,65 000 - 69 999,Neuf,2022,Oui,5,WW au Maroc,Diesel,Automatique
+50,,AUDI Q8 Competition S-LINE 50tdi 2025,"Ain El Hayani, Tanger",Q8,Audi,0 - 4 999,Neuf,2025,Oui,5,Importée neuve,Diesel,Automatique
+51,,Seat Ateca Diesel Automatique 2021 à Settat,"Toute la ville, Settat",Ateca,Seat,110 000 - 119 999,Excellent,2021,Oui,5,Dédouanée,Diesel,Automatique
+52,,Bentley bentayga S Hybride,"Route de Casablanca, Marrakech",Bentayga,Bentley,15 000 - 19 999,Excellent,2024,Oui,5,Importée neuve,Hybride,Automatique
+53,96 000 DH,Fiat punto modèle 2019,"Hamria, Meknès",Punto,Fiat,110 000 - 119 999,Neuf,2019,Oui,5,WW au Maroc,Diesel,Manuelle
+54,115 000 DH,Ds4 full options automatique 6cv,"Toute la ville, Berrechid",DS4,DS,170 000 - 179 999,Excellent,2013,Non,5,WW au Maroc,Diesel,Automatique
+55,172 000 DH,Volkswagen touareg,"Toute la ville, Berrechid",Touareg,Volkswagen,160 000 - 169 999,Excellent,2017,Non,5,WW au Maroc,Diesel,Automatique
+56,360 000 DH,Tiguan R line,"Toute la ville, Chichaoua",Tiguan,Volkswagen,160 000 - 169 999,Excellent,2017,,5,Dédouanée,Diesel,Automatique
+57,220 000 DH,BMW SERIE 5 Diesel Automatique 2015 à Casablanca,"Autre secteur, Casablanca",Série 5,BMW,190 000 - 199 999,Bon,2015,Non,5,WW au Maroc,Diesel,Automatique
+58,,Audi Q3 2019,"Autre secteur, Fès",Q3,Audi,140 000 - 149 999,Neuf,2019,Oui,5,WW au Maroc,Diesel,Automatique
+59,93 000 DH,Fiat 500 diesel,"2 Mars, Casablanca",500,Fiat,75 000 - 79 999,Très bon,2017,Non,5,WW au Maroc,Diesel,Manuelle
+60,136 000 DH,Renault clio 5 tout option,"Ben Souda, Fès",Clio,Renault,80 000 - 84 999,Très bon,2021,Oui,5,WW au Maroc,Diesel,Manuelle
+61,,Range Rover Evoque Dynamic,"Safir, Tétouan",Range Rover Evoque,Land Rover,90 000 - 94 999,Très bon,2018,Non,5,WW au Maroc,Diesel,Automatique
+62,265 000 DH,Hyundai tucson automatique full option,"Targa, Marrakech",Tucson,Hyundai,140 000 - 149 999,Excellent,2020,Oui,5,WW au Maroc,Diesel,Automatique
+63,162 000 DH,Duster automatique 2021,"Autre secteur, Meknès",Duster,Dacia,190 000 - 199 999,Neuf,2021,Non,5,WW au Maroc,Diesel,Automatique
+64,127 000 DH,Citroen cactus Automatique diesel,"Agdal, Fès",C4,Citroen,100 000 - 109 999,Très bon,2015,Non,5,WW au Maroc,Diesel,Automatique
+65,,Renault Kadjar Diesel Automatique 2022,"Bourgogne, Casablanca",Kadjar,Renault,55 000 - 59 999,Excellent,2022,Oui,5,WW au Maroc,Diesel,Automatique
+66,149 000 DH,"Honda CR-V Diesel 1,6L Automatique 6cv","2 Mars, Casablanca",CR-V,Honda,180 000 - 189 999,Excellent,2013,Non,5,WW au Maroc,Diesel,Automatique
+67,,opel astra innovation 90k certifié bva 1ére main,"Wilaya, Tétouan",Astra,Opel,85 000 - 89 999,Excellent,2020,Oui,5,WW au Maroc,Diesel,Automatique
+68,,Audi Q8 SLINE,"Yacoub El Mansour, Rabat",Q8,Audi,0 - 4 999,Neuf,2025,Non,5,Importée neuve,Diesel,Automatique
+69,1 870 000 DH,Porsche Cayenne Coupé Hybride Automatique 2024,"Malabata, Tanger",Cayenne,Porsche,0 - 4 999,Neuf,2024,,,Importée neuve,Hybride,Automatique
+70,360 000 DH,Land Rover Velar Diesel Automatique 2017 à Salé,"Hay Riad, Rabat",Range Rover Velar,Land Rover,180 000 - 189 999,Excellent,2017,Oui,5,WW au Maroc,Diesel,Automatique
+71,123 000 DH,nissan juke reprise,"Hay el Fath, Rabat",Juke,Nissan,130 000 - 139 999,Excellent,2013,Non,5,WW au Maroc,Diesel,Manuelle
+72,165 000 DH,Dacia Duster 4*4 toutes options 2020 Tetouan,"Centre ville, Tétouan",Duster,Dacia,70 000 - 74 999,Excellent,2020,Oui,5,Importée neuve,Diesel,Manuelle
+73,,Peugeot 301,"Route de Sefrou, Fès",301,Peugeot,90 000 - 94 999,Excellent,2020,Oui,5,WW au Maroc,Diesel,Manuelle
+74,780 000 DH,Audi RSQ3 2023,"Malabata, Tanger",Q3,Audi,25 000 - 29 999,Excellent,2023,Oui,5,Importée neuve,Essence,Automatique
+75,,AUDI SQ8 Importée neuve 2021,"Ain El Hayani, Tanger",Q8,Audi,50 000 - 54 999,Excellent,2021,,5,Importée neuve,Diesel,Automatique
+76,,VOLKSWAGEN TIGUAN R-Line 2025,"Ain El Hayani, Tanger",Tiguan,Volkswagen,0 - 4 999,Neuf,2025,,,Importée neuve,Diesel,Automatique
+77,285 000 DH,Mercedes-Benz Classe GLC Diesel Automatique 2015,"Hay Riad, Rabat",Classe GLC,Mercedes-Benz,190 000 - 199 999,Excellent,2015,Non,5,WW au Maroc,Diesel,Automatique
+78,219 000 DH,SEAT IBIZA FR 1.0 TSI AUTOMATIQUE TTesOPTIONS 2024,"Centre, Tanger",Ibiza,Seat,15 000 - 19 999,Neuf,2024,Oui,5,WW au Maroc,Essence,Automatique
+79,149 000 DH,Volkswagen golf 7 Diesel tout option,"Ben Souda, Fès",Golf 7,Volkswagen,160 000 - 169 999,Très bon,2015,Non,5,WW au Maroc,Diesel,Manuelle
+80,,Mercedes CLE 220d Diesel,"Route de Casablanca, Marrakech",Classe CL,Mercedes-Benz,0 - 4 999,Neuf,2025,Oui,5,Importée neuve,Diesel,Automatique
+81,,Mercedes classe C Facelift BVA 2020/09 A Casa,"Ain Sebaa, Casablanca",Classe C,Mercedes-Benz,90 000 - 94 999,Excellent,2021,Oui,5,WW au Maroc,Diesel,Automatique
+82,490 000 DH,Volkswagen Tiguan Diesel Automatique 2021 à Rabat,"Hay Riad, Rabat",Tiguan,Volkswagen,95 000 - 99 999,Excellent,2021,Oui,5,Dédouanée,Diesel,Automatique
+83,,Mercedes-Benz classe CLA 220d pack amg,"Centre, Kénitra",Classe CLA,Mercedes-Benz,190 000 - 199 999,Excellent,2014,Non,5,Importée neuve,Diesel,Automatique
+84,,Mercedes-Benz Classe GLC COUPE Automatique 2025,"Yacoub El Mansour, Rabat",Classe GLC,Mercedes-Benz,0 - 4 999,Neuf,2025,Oui,5,Importée neuve,Hybride,Automatique
+85,188 000 DH,Volkswagen Beetle Diesel Automatique 2017,"Hay Al Hassani, Marrakech",Coccinelle,Volkswagen,100 000 - 109 999,Excellent,2017,Non,3,WW au Maroc,Diesel,Automatique
+86,,Volkswagen Tiguan R-line 2025 à Tanger,"Ain El Hayani, Tanger",Tiguan,Volkswagen,0 - 4 999,Neuf,2025,Oui,5,Importée neuve,Diesel,Automatique
+87,,Volkswagen T-Roc Diesel Automatique 2023,"Biranzarane, El Jadida",T-Roc,Volkswagen,40 000 - 44 999,Excellent,2023,Oui,5,WW au Maroc,Diesel,Automatique
+88,75 000 DH,Ford Fiesta 2012 essence 1.2L,"Autre secteur, Rabat",Fiesta,Ford,180 000 - 189 999,Excellent,2012,Non,,WW au Maroc,Essence,Manuelle
+89,430 000 DH,Mercedes-Benz Classe C Diesel Automatique 2019,"Hay Riad, Rabat",Classe C,Mercedes-Benz,120 000 - 129 999,Excellent,2019,Oui,3,WW au Maroc,Diesel,Automatique
+90,173 000 DH,Volkswagen Touareg Diesel Automatique 2015,"Ain Sebaa, Casablanca",Touareg,Volkswagen,160 000 - 169 999,Excellent,2015,Non,5,WW au Maroc,Diesel,Automatique
+91,185 000 DH,range evoque,"2 Mars, Casablanca",Touran,Volkswagen,120 000 - 129 999,Excellent,2015,Non,5,WW au Maroc,Diesel,Automatique
+92,,Audi A5 Tech Pro S Line Plus Diesel,"Route de Casablanca, Marrakech",A5,Audi,0 - 4 999,Neuf,2025,Oui,5,Importée neuve,Diesel,Automatique
+93,,Porsche Cayenne Coupé Hybrid Automatique 2025,"Ain El Hayani, Tanger",Cayenne,Porsche,0 - 4 999,Neuf,2025,Oui,5,Importée neuve,Hybride,Automatique
+94,,Citroen C3 Diesel Manuelle 2019,"Hay Targa, Marrakech",C3,Citroen,150 000 - 159 999,Excellent,2019,Non,5,WW au Maroc,Diesel,Manuelle
+95,,Dacia Sandero Stepway Diesel 2021 à Agadir,"Hay Zaytoun, Agadir",Sandero,Dacia,80 000 - 84 999,Excellent,2021,Oui,5,WW au Maroc,Diesel,Manuelle
+96,,BMW Série 328 Diesel,"Aïn Chock, Casablanca",Série 3,BMW,150 000 - 159 999,Excellent,2016,Oui,5,Dédouanée,Diesel,Automatique
+97,,Audi Q8 S-LINE,"Malabata, Tanger",Q8,Audi,80 000 - 84 999,Excellent,2019,,5,Importée neuve,Diesel,Automatique
+98,,Hyundai Tucson Diesel Automatique,"Californie, Casablanca",Tucson,Hyundai,85 000 - 89 999,Excellent,2022,Oui,5,WW au Maroc,Diesel,Automatique
+99,,Peugeot 3008 GTLIN 2019,"Autre secteur, Fès",Clio,Renault,75 000 - 79 999,Excellent,2023,Oui,5,WW au Maroc,Diesel,Manuelle
+100,,RENAULT CLIO,"Agdal, Marrakech",Classe C,Mercedes-Benz,10 000 - 14 999,Excellent,2024,Non,5,Dédouanée,Diesel,Automatique
+101,,Mercedes C-Class 2024 AMG Line – Dédouanée 2025,"Av Mohammed VI, Marrakech",Leon,Seat,170 000 - 179 999,Excellent,2018,Non,5,WW au Maroc,Diesel,Manuelle
+102,,Seat Leon fr,"Californie, Casablanca",Dokker,Dacia,190 000 - 199 999,Très bon,2020,Non,5,WW au Maroc,Diesel,Manuelle
+103,124 000 DH,Dacia doker,"Kouilma, Tétouan",Classe CL,Mercedes-Benz,0 - 4 999,Neuf,2025,Oui,5,Importée neuve,Diesel,Automatique
+104,,Mercedes CLE 220d Diesel,"Route de Casablanca, Marrakech",Classe C,Mercedes-Benz,90 000 - 94 999,Excellent,2021,Oui,5,WW au Maroc,Diesel,Automatique
+105,,Mercedes classe C Facelift BVA 2020/09 A Casa,"Ain Sebaa, Casablanca",Tiguan,Volkswagen,95 000 - 99 999,Excellent,2021,Oui,5,Dédouanée,Diesel,Automatique
+106,490 000 DH,Volkswagen Tiguan Diesel Automatique 2021 à Rabat,"Hay Riad, Rabat",Classe CLA,Mercedes-Benz,190 000 - 199 999,Excellent,2014,Non,5,Importée neuve,Diesel,Automatique
+107,,Mercedes-Benz classe CLA 220d pack amg,"Centre, Kénitra",Classe GLC,Mercedes-Benz,0 - 4 999,Neuf,2025,Oui,5,Importée neuve,Hybride,Automatique
+108,,Mercedes-Benz Classe GLC COUPE Automatique 2025,"Yacoub El Mansour, Rabat",Coccinelle,Volkswagen,100 000 - 109 999,Excellent,2017,Non,3,WW au Maroc,Diesel,Automatique
+109,188 000 DH,Volkswagen Beetle Diesel Automatique 2017,"Hay Al Hassani, Marrakech",Tiguan,Volkswagen,0 - 4 999,Neuf,2025,Oui,5,Importée neuve,Diesel,Automatique
+110,,Volkswagen Tiguan R-line 2025 à Tanger,"Ain El Hayani, طنجة",T-Roc,Volkswagen,40 000 - 44 999,Excellent,2023,Oui,5,WW au Maroc,Diesel,Automatique
+111,,Volkswagen T-Roc Diesel Automatique 2023,"Biranzarane, El Jadida",Fiesta,Ford,180 000 - 189 999,Excellent,2012,Non,,WW au Maroc,Essence,Manuelle
+112,75 000 DH,Ford Fiesta 2012 essence 1.2L,"Autre secteur, Rabat",Classe C,Mercedes-Benz,120 000 - 129 999,Excellent,2019,Oui,3,WW au Maroc,Diesel,Automatique
+113,430 000 DH,Mercedes-Benz Classe C Diesel Automatique 2019,"Hay Riad, Rabat",Touareg,Volkswagen,160 000 - 169 999,Excellent,2015,Non,5,WW au Maroc,Diesel,Automatique
+114,173 000 DH,Volkswagen Touareg Diesel Automatique 2015,"Ain Sebaa, Casablanca",Touran,Volkswagen,120 000 - 129 999,Excellent,2015,Non,5,WW au Maroc,Diesel,Automatique
+115,185 000 DH,range evoque,"2 Mars, Casablanca",A5,Audi,0 - 4 999,Neuf,2025,Oui,5,Importée neuve,Diesel,Automatique
+116,,Audi A5 Tech Pro S Line Plus Diesel,"Route de Casablanca, Marrakech",Cayenne,Porsche,0 - 4 999,Neuf,2025,Oui,5,Importée neuve,Hybride,Automatique
+117,,Porsche Cayenne Coupé Hybrid Automatique 2025,"Ain El Hayani, Tanger",C3,Citroen,150 000 - 159 999,Excellent,2019,Non,5,WW au Maroc,Diesel,Manuelle
+118,,Citroen C3 Diesel Manuelle 2019,"Hay Targa, Marrakech",Sandero,Dacia,80 000 - 84 999,Excellent,2021,Oui,5,WW au Maroc,Diesel,Manuelle
+119,,Dacia Sandero Stepway Diesel 2021 à Agadir,"Hay Zaytoun, Agadir",Série 3,BMW,150 000 - 159 999,Excellent,2016,Oui,5,Dédouanée,Diesel,Automatique
+120,,BMW Série 328 Diesel,"Aïn Chock, Casablanca",Q8,Audi,80 000 - 84 999,Excellent,2019,,5,Importée neuve,Diesel,Automatique
+121,,Audi Q8 S-LINE,"Malabata, Tanger",Tucson,Hyundai,85 000 - 89 999,Excellent,2022,Oui,5,WW au Maroc,Diesel,Automatique
+122,,Hyundai Tucson Diesel Automatique,"Californie, Casablanca",3008,Peugeot,110 000 - 119 999,Neuf,2019,Non,5,WW au Maroc,Diesel,Automatique
+123,,Peugeot 3008 GTLIN 2019,"Autre secteur, Fès",Clio,Renault,75 000 - 79 999,Excellent,2023,Oui,5,WW au Maroc,Diesel,Manuelle
+124,,RENAULT CLIO,"Agdal, Marrakech",Classe C,Mercedes-Benz,10 000 - 14 999,Excellent,2024,Non,5,Dédouanée,Diesel,Automatique
+125,,Mercedes C-Class 2024 AMG Line – Dédouanée 2025,"Av Mohammed VI, Marrakech",Leon,Seat,170 000 - 179 999,Excellent,2018,Non,5,WW au Maroc,Diesel,Manuelle
+126,,Seat Leon fr,"Californie, Casablanca",Dokker,Dacia,190 000 - 199 999,Très bon,2020,Non,5,WW au Maroc,Diesel,Manuelle
+127,124 000 DH,Dacia doker,"Kouilma, Tétouan",Range Rover Vogue,Land Rover,200 000 - 249 999,Excellent,2014,Oui,5,WW au Maroc,Diesel,Automatique
+128,,Land Rover Range Rover Vogue Diesel Automatique,"Centre Ville, Marrakech",V40,Volvo,35 000 - 39 999,Bon,2019,Oui,5,WW au Maroc,Diesel,Automatique
+129,185 000 DH,VOLVO V40 Diesel Automatique 2019 à Rabat.,"Autre secteur, Rabat",Range Rover Sport,Land Rover,200 000 - 249 999,Excellent,2014,Oui,5,Importée neuve,Diesel,Automatique
+130,,Land Rover Range Rover Sport Diesel Automatique,"Hay Riad, Rabat",Classe GLE,Mercedes-Benz,0 - 4 999,Neuf,2025,Oui,5,Importée neuve,Hybride,Automatique
+131,,Mercedes GLE 350de Hybride,"Route de Casablanca, Marrakech",Classe A,Mercedes-Benz,65 000 - 69 999,Très bon,2022,Non,5,WW au Maroc,Diesel,Automatique
+132,385 000 DH,Mercedes- A200d PACK AMG,"Centre ville, Tanger",Golf 8,Volkswagen,0 - 4 999,Neuf,2025,,5,Importée neuve,Essence,Automatique
+133,790 000 DH,Volkswagen Golf 8.5 R facelift,"Malabata, Tanger",Classe A,Mercedes-Benz,130 000 - 139 999,Excellent,2020,Oui,5,Importée neuve,Diesel,Automatique
+134,,MERCEDES CALASSE A IMPORTÉE,"Hivernage, Marrakech",Q3,Audi,190 000 - 199 999,Très bon,2014,Non,5,WW au Maroc,Diesel,Automatique
+135,,Audi q3 Diesel Automatique 2014,"Hay Hassani, Casablanca",Rifter,Peugeot,55 000 - 59 999,Excellent,2021,Oui,5,WW au Maroc,Diesel,Manuelle
+136,185 000 DH,Peugeot - Rifter 2021,"Autre secteur, Rabat",Classe A,Mercedes-Benz,95 000 - 99 999,Excellent,2020,Oui,5,Dédouanée,Diesel,Automatique
+137,398 000 DH,Mercedes Class A Sedan Pack AMG - DERKAOUI AUTO,"Val Fleuri, Tanger",Classe C,Mercedes-Benz,50 000 - 54 999,Excellent,2021,,,Importée neuve,Diesel,Automatique
+138,,MERCEDES CLASSE C 220d 2021,"Ain El Hayani, Tanger",Classe E,Mercedes-Benz,0 - 4 999,Neuf,2025,Non,5,Importée neuve,Hybride,Automatique
+139,,Mercedes-Benz Classe E Automatique,"Yacoub El Mansour, Rabat",Classe GLC,Mercedes-Benz,130 000 - 139 999,Neuf,2022,Oui,5,Dédouanée,Diesel,Automatique
+140,,Mercedes benz GLC 300,"Autre secteur, Fès",C70,Volvo,95 000 - 99 999,Très bon,1999,Oui,3,WW au Maroc,Essence,Automatique
+141,,VOLVO C70 COUPÉ ESSENCE,"Hivernage, Marrakech",500X,Fiat,25 000 - 29 999,Excellent,2023,Oui,5,WW au Maroc,Essence,Automatique
+142,220 000 DH,Fiat 500X automatique full option 1er main,"Targa, Marrakech",Fiesta,Ford,120 000 - 129 999,Très bon,2017,Non,5,WW au Maroc,Diesel,Manuelle
+143,100 000 DH,Ford fiesta diesel,"2 Mars, Casablanca",2008,Peugeot,60 000 - 64 999,Excellent,2020,Oui,5,WW au Maroc,Diesel,Automatique
+144,229 000 DH,Peugeot 2008 Diesel Automatique modèle fin 2020,"Ain Sebaa, Casablanca",Tiguan,Volkswagen,80 000 - 84 999,Excellent,2022,Oui,5,Importée neuve,Diesel,Automatique
+145,,Volkswagen Tiguan R-line,"Aïn Chock, Casablanca",Logan,Dacia,10 000 - 14 999,Neuf,2024,Oui,5,WW au Maroc,Diesel,Manuelle
+146,320 000 DH,mercedes-Benz GLA AMG,"Toute la ville, Ouarzazate",Q5,Audi,190 000 - 199 999,Très bon,2014,Non,5,Dédouanée,Diesel,Automatique
+147,285 000 DH,Audi Q5 Diesel Automatique 2014 à Errachidia,"Toute la ville, Errachidia",Megane,Renault,55 000 - 59 999,Très bon,2023,,5,WW au Maroc,Diesel,Automatique
+148,220 000 DH,Renault Mégane 4 intens automatique,"2 Mars, Casablanca",Ateca,Seat,25 000 - 29 999,Excellent,2023,Oui,5,WW au Maroc,Diesel,Automatique
+149,,Seat Ateca Diesel Automatique 2023 à Casablanca,"Bourgogne, Casablanca",Glory 580,DFSK,50 000 - 54 999,Excellent,2021,Oui,3,WW au Maroc,Essence,Automatique
+150,135 000 DH,Dfsk Glory 580 Automatic Cuir toit 2021 7 places,"2 Mars, Casablanca",Micra,Nissan,60 000 - 64 999,,2021,Oui,,WW au Maroc,Diesel,Manuelle
+151,126 000 DH,Nissan Micra Diesel,"Centre, Fès",Wrangler,Jeep,35 000 - 39 999,Excellent,2016,Oui,3,WW au Maroc,Diesel,Automatique
+152,,JEEP WRANGLER SAHARA,"Hivernage, Marrakech",Série 5,BMW,180 000 - 189 999,Très bon,2017,Oui,5,WW au Maroc,Diesel,Automatique
+153,275 000 DH,BMW Série 5 Diesel Automatique 2017 à Marrakech,"Hay Al Hassani, Marrakech",Astra,Opel,170 000 - 179 999,Excellent,2016,Non,5,WW au Maroc,Diesel,Manuelle
+154,117 000 DH,Opel Astra Diesel,"Aïn Chock, Casablanca",C-Elysée,Citroen,110 000 - 119 999,Très bon,2019,Oui,5,WW au Maroc,Diesel,Manuelle
+155,,Citroen C-Elysée Diesel Manuelle 2019 à Agadir,"Cité Adrar, Agadir",Q4 e-tron,Audi,0 - 4 999,Excellent,2025,Oui,5,Importée neuve,Electrique,Automatique
+156,,Audi Q4 e-tron Electrique Automatique 2025,"Oulfa, Casablanca",Range Rover Sport,Land Rover,110 000 - 119 999,Excellent,2016,Non,5,Importée neuve,Diesel,Automatique
+157,398 000 DH,RANGE ROVER SPORT AUTOBIOGRAPHY STARTECH TTOPTIONS,"Centre, Tanger",208,Peugeot,5 000 - 9 999,Excellent,2024,Oui,5,WW au Maroc,Essence,Manuelle
+158,168 000 DH,Peugeot 208 Essence Manuelle 2024 à Marrakech,"Hay Al Hassani, Marrakech",Corolla,Toyota,70 000 - 74 999,Neuf,2021,Non,5,WW au Maroc,Hybride,Automatique
+159,220 000 DH,Toyota Corolla Hybride Automatique 2021 à Tétouan,"Touabel, Tétouan",Clio,Renault,120 000 - 129 999,Excellent,2019,Non,5,WW au Maroc,Diesel,Manuelle
+160,118 000 DH,Renault Clio 4 modèle 2019,"Massira 3, Marrakech",Classe E,Mercedes-Benz,0 - 4 999,Neuf,2025,,5,Importée neuve,Hybride,Automatique
+161,,Mercedes-Benz Classe E300de amg,"Aïn Chock, Casablanca",Duster,Dacia,30 000 - 34 999,Neuf,2022,Oui,5,WW au Maroc,Diesel,Manuelle
+162,209 000 DH,Dacia Duster Diesel Manuelle 2022 à Salé,"Tabriquet, Salé",C3,Citroen,120 000 - 129 999,Très bon,2019,Oui,5,WW au Maroc,Diesel,Manuelle
+163,123 000 DH,c3 model 2019,"Oulfa, Casablanca",Fiorino,Fiat,85 000 - 89 999,Excellent,2020,Oui,5,WW au Maroc,Diesel,Manuelle
+164,,Audi A3 Sportback 35 TDI 2024 a Rabat,"Hay Al Farah, Rabat",Golf 8,Volkswagen,120 000 - 129 999,Très bon,2022,Oui,5,WW au Maroc,Diesel,Automatique
+165,307 000 DH,Volkswagen Golf 8 Diesel Automatique 2022,"Hay Al Hassani, Marrakech",Megane,Renault,100 000 - 109 999,Excellent,2020,Oui,5,WW au Maroc,Diesel,Automatique
+166,225 000 DH,Renault Megane Diesel Automatique 2020 à Tanger,"Bel Air - Val fleuri, Tanger",i10,Hyundai,170 000 - 179 999,Neuf,2017,Oui,5,WW au Maroc,Essence,Manuelle
+167,,Hyundai i10 Modèle 2017,"Maarif, Casablanca",Classe CLA,Mercedes-Benz,0 - 4 999,Neuf,2024,Oui,5,Importée neuve,Diesel,Automatique
+168,,Mercedes Benz CLA220d amg line plus 00km,"Centre, Kénitra",V40,Volvo,140 000 - 149 999,Neuf,2019,Non,5,WW au Maroc,Diesel,Automatique
+169,175 000 DH,volvo v40 etat neuf,"Hay Riad, Rabat",Stelvio,Alfa Romeo,95 000 - 99 999,Excellent,2018,Oui,5,WW au Maroc,Essence,Automatique
+170,240 000 DH,alfa Stelio,"Hay Targa, Marrakech",Model 3,Tesla,150 000 - 159 999,Excellent,2021,Oui,5,Dédouanée,Electrique,Automatique
+171,380 000 DH,Tesla Model 3 Electrique BVA 2021 Dédouané 2025,"Californie, Casablanca",Tiguan,Volkswagen,140 000 - 149 999,Excellent,2019,Non,5,WW au Maroc,Diesel,Automatique
+172,,Volkswagen tiguan,"Branes 1, Tanger",Daily,Iveco,55 000 - 59 999,Très bon,2019,Oui,3,WW au Maroc,Diesel,Manuelle
+173,,Iveco Bache,"Safir, Tétouan",Civic,Honda,130 000 - 139 999,Bon,2018,Oui,5,WW au Maroc,Essence,Automatique
+174,158 000 DH,HONDA CIVIC Diesel Automatique 2018 à Casablanca.,"Autre secteur, Casablanca",Urus,Lamborghini,0 - 4 999,Excellent,2024,,5,Importée neuve,Essence,Automatique
+175,,Lamborghini Urus Capsule 2024,"Maarif, Casablanca",XE,Jaguar,140 000 - 149 999,Excellent,2016,Oui,5,WW au Maroc,Diesel,Automatique
+176,235 000 DH,Jaguar XE R sport fin 2016 1ère main,"Anfa, Casablanca",Renegade,Jeep,80 000 - 84 999,Excellent,2017,Oui,5,WW au Maroc,Diesel,Manuelle
+177,,jeep renegade2017,"Ain Sebaa, Casablanca",Wrangler,Jeep,200 000 - 249 999,Excellent,2016,Oui,5,WW au Maroc,Diesel,Automatique
+178,250 000 DH,Jeep Wrangler Sahara Unlimited,"Californie, Casablanca",Tiguan,Volkswagen,120 000 - 129 999,Neuf,2021,Oui,5,Dédouanée,Diesel,Automatique
+179,465 000 DH,volkswagen tiguan Rline,"Hay Riad, Rabat",Ateca,Seat,150 000 - 159 999,Excellent,2019,,5,Dédouanée,Diesel,Automatique
+180,,Seat Ateca Diesel Automatique 2019 dédouanée 2025,"Toute la ville, Settat",Classe C,Mercedes-Benz,45 000 - 49 999,Excellent,2022,Oui,5,Dédouanée,Diesel,Automatique
+181,,1ÈRE MAIN nouvelle C 220D très propre 50.000km,"Californie, Tanger",Classe GLC,Mercedes-Benz,0 - 4 999,Neuf,2025,Oui,5,Importée neuve,Hybride,Automatique
+182,,Mercedes benz GLC300de amg line plus,"Autre secteur, Rabat",Megane,Renault,90 000 - 94 999,Excellent,2020,Oui,5,WW au Maroc,Diesel,Automatique
+183,,Renault megane 4,"Al Qods, Casablanca",Q5,Audi,60 000 - 64 999,Excellent,2022,Oui,5,Importée neuve,Diesel,Automatique
+184,,AUDI SQ5 COUPÉ SPORTBACK 341cv DIESEL FULL 2022,"Centre, Tanger",Ducato,Fiat,50 000 - 54 999,Bon,2020,Oui,3,WW au Maroc,Diesel,Manuelle
+185,205 000 DH,Fiat Ducato Diesel Manuelle 2020 à Tétouan,"Safir, Tétouan",220,Mercedes-Benz,0 - 4 999,Excellent,2019,,,Dédouanée,Diesel,Automatique
+186,,Porsche - Cayenne 2022 dédouanée 2025,"Guéliz, Marrakech",Octavia,Skoda,120 000 - 129 999,Excellent,2021,,5,WW au Maroc,Diesel,Automatique
+187,,Skoda Octavia Diesel Automatique 2021 à Marrakech,"Centre Ville, Marrakech",Classe C,Mercedes-Benz,200 000 - 249 999,Excellent,2015,,5,Dédouanée,Diesel,Automatique
+188,,Mercedes-Benz Classe C Diesel Automatique 2015,"Centre Ville, Marrakech",220,Mercedes-Benz,200 000 - 249 999,Excellent,2015,Non,5,WW au Maroc,Diesel,Automatique
+189,,C220 mois 11. 2015,"Bab Sebta, Salé",Master,Renault,50 000 - 54 999,Très bon,2023,Non,5,WW au Maroc,Diesel,Manuelle
+190,,Fiat Ducato Manuel,"Medina, Tétouan",Fiesta,Ford,75 000 - 79 999,Excellent,2018,Oui,5,WW au Maroc,Diesel,Manuelle
+191,,Ford Fiesta Diesel Manuelle 2018 à Fès,"Route Ain Chkaf, Fès",Megane,Renault,170 000 - 179 999,Bon,2009,Non,3,WW au Maroc,Diesel,Manuelle
+192,79 000 DH,Megane 3 coupé 1.9,"2 Mars, Casablanca",Q5,Audi,40 000 - 44 999,Excellent,2022,Oui,5,Dédouanée,Diesel,Automatique
+193,,Audi Q5 S-line quattro diesel,"Aïn Chock, Casablanca",Megane,Renault,15 000 - 19 999,Excellent,2024,Oui,5,WW au Maroc,Diesel,Automatique
+194,257 000 DH,Renault Megane Diesel Automatique 2024 à Marrakech,"Hay Al Hassani, Marrakech",Crossland,Opel,25 000 - 29 999,Excellent,2023,Oui,5,WW au Maroc,Diesel,Manuelle
+195,163 000 DH,Opel Crossland X Diesel 2023 tt option,"Laimoune, Casablanca",Range Rover Velar,Land Rover,100 000 - 109 999,Excellent,2017,Non,5,WW au Maroc,Diesel,Automatique
+196,395 000 DH,Land Rover Velar Diesel Automatique 2017,"Anfa, Casablanca",Picanto,Kia,5 000 - 9 999,Très bon,2024,,5,WW au Maroc,Essence,Automatique
+197,147 000 DH,Kia Picanto Essence Automatique 2024 à Casablanca,"Sidi Bernoussi, Casablanca",Q3,Audi,95 000 - 99 999,Excellent,2021,Oui,5,Dédouanée,Diesel,Automatique
+198,,Audi Q3 Sline Automatique 2021 à Fès,"Hay Saada, Fès",2008,Peugeot,40 000 - 44 999,Très bon,2021,Non,5,WW au Maroc,Diesel,Manuelle
+199,229 000 DH,Peugeot 2008 Diesel Manuelle 2021 à Casablanca,"Sidi Bernoussi, Casablanca",Tiguan,Volkswagen,0 - 4 999,Neuf,2024,Oui,5,Importée neuve,Diesel,Automatique
+200,,Volkswagen Tiguan Rline 200hp Full option,"Autre secteur, Rabat",Octavia,Skoda,80 000 - 84 999,Neuf,2021,Oui,5,WW au Maroc,Diesel,Automatique
+201,228 000 DH,Octavia Ambition,"Autre secteur, Rabat",Clio,Renault,95 000 - 99 999,Neuf,2019,Oui,5,WW au Maroc,Diesel,Manuelle
+202,113 000 DH,Renault Clio Diesel Manuelle 2019 à Fès,"Route d'Immouzere, Fès",Tucson,Hyundai,130 000 - 139 999,Excellent,2016,,5,WW au Maroc,Diesel,Automatique
+203,198 500 DH,Hyundai Tucson Diesel Automatique 2016,"Ain Sebaa, Casablanca",Touareg,Volkswagen,40 000 - 44 999,Excellent,2020,Oui,5,WW au Maroc,Diesel,Automatique
+204,390 000 DH,Volkswagen Touareg Diesel Automatique 2020,"2 Mars, Casablanca",Corsa,Opel,0 - 4 999,Excellent,2023,,5,WW au Maroc,Diesel,Manuelle
+205,145 000 DH,opel corsa 2023,"Mont Fleuri 2, Fès",C3,Citroen,20 000 - 24 999,Bon,2023,Oui,5,WW au Maroc,Diesel,Manuelle
+206,180 000 DH,CITROEN C3 AIRCROSS Diesel Manuelle 2023,"Autre secteur, Casablanca",220,Mercedes-Benz,200 000 - 249 999,Excellent,2013,Oui,,Importée neuve,Diesel,Automatique
+207,,mercedes C 220 importeé neuve,"Hay Riad, Rabat",Ibiza,Seat,70 000 - 74 999,Très bon,2021,Oui,5,WW au Maroc,Essence,Manuelle
+208,132 000 DH,Seat Ibiza Essence Manuelle 2021 à Marrakech,"Hay Al Hassani, Marrakech",Classe GLC,Mercedes-Benz,85 000 - 89 999,Excellent,2021,Oui,5,Dédouanée,Hybride,Automatique
+209,,Mercedes-Benz Classe GLC 300 DE Amg Coupe,"Centre ville, Tanger",208,Peugeot,95 000 - 99 999,Excellent,2022,Oui,5,Dédouanée,Diesel,Manuelle
+210,158 000 DH,Peugeot 208 model 2022,"Hay Massira, Marrakech",Q3,Audi,150 000 - 159 999,Neuf,2019,Oui,5,WW au Maroc,Diesel,Automatique
+211,358 000 DH,Audi q5 Diesel tout option,"Route d'Immouzere, Fès",3008,Peugeot,90 000 - 94 999,Excellent,2017,Non,5,WW au Maroc,Diesel,Automatique
+212,,PEUGEOT 3008,"Agdal, Rabat",Clio,Renault,0 - 4 999,Excellent,2022,Non,5,WW au Maroc,Diesel,Manuelle
+213,144 000 DH,clio 5 2022,"Toute la ville, Errachidia",Touareg,Volkswagen,190 000 - 199 999,Bon,2019,Non,5,WW au Maroc,Diesel,Automatique
+214,285 000 DH,VOLKSWAGEN TOUAREG Diesel Automatique 2019,"Autre secteur, Casablanca",Touran,Volkswagen,170 000 - 179 999,Excellent,2016,,5,Dédouanée,Diesel,Automatique
+215,222 000 DH,Volkswagen Touran Diesel Automatique 2016 à Fès,"Agdal, Fès",CountryMan,Mini,90 000 - 94 999,Excellent,2018,Oui,5,Importée neuve,Essence,Automatique
+216,,Mini Country Man Essence Automatique 2018 à Rabat,"Hay Riad, Rabat",Classe G,Mercedes-Benz,60 000 - 64 999,Neuf,2019,Oui,5,Importée neuve,Essence,Automatique
+217,,MERCEDES G Brabus 700,"Route de Casablanca, Marrakech",Leon,Seat,75 000 - 79 999,Neuf,2020,Oui,5,WW au Maroc,Diesel,Manuelle
+218,,Seat leon Fr 2020/12 premier man,"Safir, Tétouan",C3,Citroen,95 000 - 99 999,Neuf,2019,Non,5,WW au Maroc,Diesel,Manuelle
+219,,C3 aircross shine 2019 diesel manuel,"Safir, Tétouan",Duster,Dacia,95 000 - 99 999,Très bon,2021,Non,5,WW au Maroc,Diesel,Automatique
+220,159 000 DH,Dacia Duster Diesel Automatique 2021 à Casablanca,"2 Mars, Casablanca",208,Peugeot,40 000 - 44 999,Excellent,2022,Non,,WW au Maroc,Diesel,Automatique
+221,,peugeot 208 Automatique 2022,"Ain Sebaa, Casablanca",Q5,Audi,90 000 - 94 999,Excellent,2023,,,Dédouanée,Diesel,Automatique
+222,,Audi Q5 sportback 2023 à Casablanca,"Aïn Chock, Casablanca",Grand Cherokee,Jeep,80 000 - 84 999,Excellent,2020,,,,Diesel,Automatique
+223,260 000 DH,Jeep Grand Cherokee,"Maarif, Casablanca",Express,Renault,100 000 - 109 999,Excellent,2022,Oui,5,WW au Maroc,Diesel,Manuelle
+224,,Renault express diesel 2022,"LABC, Safi",Carrera,Porsche,15 000 - 19 999,Excellent,2023,Oui,3,WW au Maroc,Essence,Automatique
+225,,Porsche 911 carrera cabriolet,"Aïn Diab, Casablanca",Creta,Hyundai,60 000 - 64 999,Très bon,2022,Oui,5,WW au Maroc,Diesel,Automatique
+226,238 000 DH,Cretaaa Outoumatiq tt opsion,"2 Mars, Casablanca",X1,BMW,160 000 - 169 999,Excellent,2018,Non,5,WW au Maroc,Diesel,Automatique
+227,235 000 DH,bmw x1 Sport,"Ain Sebaa, Casablanca",XF,Jaguar,250 000 - 299 999,Bon,2010,Non,5,WW au Maroc,Diesel,Automatique
+228,88 000 DH,Jaguar xf automatique,"2 Mars, Casablanca",Classe A,Mercedes-Benz,130 000 - 139 999,Excellent,2019,,,Dédouanée,Diesel,Automatique
+229,,Mercedes A200 AMG,"Aïn Chock, Casablanca",Polo,Volkswagen,55 000 - 59 999,Excellent,2021,Non,5,Importée neuve,Essence,Automatique
+230,280 000 DH,Volkswagen Polo R-line essence,"Wilaya, Tétouan",Clio,Renault,60 000 - 64 999,Excellent,2023,Oui,5,WW au Maroc,Essence,Automatique
+231,135 000 DH,Renault Clio Essence Automatique 2023 à Marrakech,"Hay Targa, Marrakech",CountryMan,Mini,110 000 - 119 999,Excellent,2017,Non,3,Importée neuve,Essence,Automatique
+232,,Mini CountryMan JOHN Cooper Works 2017,"Autre secteur, Rabat",Classe CLA,Mercedes-Benz,80 000 - 84 999,Excellent,2020,,,Dédouanée,Diesel,Automatique
+233,,Renault Megane automatic,"Aïn Chock, Casablanca",A3,Audi,120 000 - 129 999,Excellent,2016,Non,5,Dédouanée,Diesel,Manuelle
+234,210 000 DH,Audi~A3 top,"Toute la ville, Ouarzazate",Série 1,BMW,140 000 - 149 999,Excellent,2012,Non,5,WW au Maroc,Essence,Manuelle
+235,,BMW X6 30d X-drive 2016,"Centre, Kénitra",A5,Audi,100 000 - 109 999,Excellent,2015,Non,5,WW au Maroc,Diesel,Automatique
+236,235 000 DH,Audi A5 2litre 8CHV Jamais ACCIDENTÉ,"La Gironde, Casablanca",E-Pace,Jaguar,110 000 - 119 999,Excellent,2019,Oui,5,WW au Maroc,Diesel,Automatique
+237,,Jaguar E-Pace Diesel Automatique 2019 à Rabat,"Massira, Rabat",190,Mercedes-Benz,350 000 - 399 999,Bon,1990,Non,5,Dédouanée,Diesel,Manuelle
+238,50 000 DH,Mercedes-Benz 190 Diesel Manuelle 1990,"Toute la ville, El Kelâa des Sraghna",Range Rover Evoque,Land Rover,70 000 - 74 999,Excellent,2013,Non,5,,Diesel,Automatique
+239,256 000 DH,Rare Evoque à Vendre,"Ancienne Médina, Marrakech",500,Fiat,100 000 - 109 999,Excellent,2019,Oui,3,WW au Maroc,Essence,Automatique
+240,117 000 DH,Fiat 500 Essence Automatique 2019 à Tétouan,"Wilaya, Tétouan",Touareg,Volkswagen,200 000 - 249 999,Très bon,2012,Non,5,WW au Maroc,Diesel,Automatique
+241,135 000 DH,Touareg diesel,"2 Mars, Casablanca",Captur,Renault,130 000 - 139 999,Excellent,2015,Oui,5,WW au Maroc,Diesel,Manuelle
+242,126 000 DH,Renault Cpture intens,"Agdal, Fès",Freelander,Land Rover,200 000 - 249 999,Très bon,2012,,5,,Diesel,Automatique
+243,120 000 DH,Land rover freelander 2 modèle 2012,"Oasis, Casablanca",Duster,Dacia,95 000 - 99 999,Très bon,2021,Non,5,WW au Maroc,Diesel,Automatique
+244,159 000 DH,Dacia Duster Diesel Automatique 2021 à Casablanca,"2 Mars, Casablanca",208,Peugeot,40 000 - 44 999,Excellent,2022,Non,,WW au Maroc,Diesel,Automatique
+245,,peugeot 208 Automatique 2022,"Ain Sebaa, Casablanca",Q5,Audi,90 000 - 94 999,Excellent,2023,,,Dédouanée,Diesel,Automatique
+246,,Audi Q5 sportback 2023 à Casablanca,"Aïn Chock, Casablanca",Grand Cherokee,Jeep,80 000 - 84 999,Excellent,2020,,,,Diesel,Automatique
+247,260 000 DH,Jeep Grand Cherokee,"Maarif, Casablanca",Express,Renault,100 000 - 109 999,Excellent,2022,Oui,5,WW au Maroc,Diesel,Manuelle
+248,,Renault express diesel 2022,"LABC, Safi",Carrera,Porsche,15 000 - 19 999,Excellent,2023,Oui,3,WW au Maroc,Essence,Automatique
+249,,Porsche 911 carrera cabriolet,"Aïn Diab, Casablanca",Creta,Hyundai,60 000 - 64 999,Très bon,2022,Oui,5,WW au Maroc,Diesel,Automatique
+250,238 000 DH,Cretaaa Outoumatiq tt opsion,"2 Mars, Casablanca",X1,BMW,160 000 - 169 999,Excellent,2018,Non,5,WW au Maroc,Diesel,Automatique
+251,235 000 DH,bmw x1 Sport,"Ain Sebaa, Casablanca",XF,Jaguar,250 000 - 299 999,Bon,2010,Non,5,WW au Maroc,Diesel,Automatique
+252,88 000 DH,Jaguar xf automatique,"2 Mars, Casablanca",Classe A,Mercedes-Benz,130 000 - 139 999,Excellent,2019,,,Dédouanée,Diesel,Automatique
+253,,Mercedes A200 AMG,"Aïn Chock, Casablanca",Polo,Volkswagen,55 000 - 59 999,Excellent,2021,Non,5,Importée neuve,Essence,Automatique
+254,280 000 DH,Volkswagen Polo R-line essence,"Wilaya, Tétouan",Clio,Renault,60 000 - 64 999,Excellent,2023,Oui,5,WW au Maroc,Essence,Automatique
+255,135 000 DH,Renault Clio Essence Automatique 2023 à Marrakech,"Hay Targa, Marrakech",CountryMan,Mini,110 000 - 119 999,Excellent,2017,Non,3,Importée neuve,Essence,Automatique
+256,,Mini CountryMan JOHN Cooper Works 2017,"Autre secteur, Rabat",Classe CLA,Mercedes-Benz,80 000 - 84 999,Excellent,2020,,,Dédouanée,Diesel,Automatique
+257,,Renault Megane automatic,"Aïn Chock, Casablanca",A3,Audi,120 000 - 129 999,Excellent,2016,Non,5,Dédouanée,Diesel,Manuelle
+258,210 000 DH,Audi~A3 top,"Toute la ville, Ouarzazate",Série 1,BMW,140 000 - 149 999,Excellent,2012,Non,5,WW au Maroc,Essence,Manuelle
+259,,BMW X6 30d X-drive 2016,"Centre, Kénitra",A5,Audi,100 000 - 109 999,Excellent,2015,Non,5,WW au Maroc,Diesel,Automatique
+260,235 000 DH,Audi A5 2litre 8CHV Jamais ACCIDENTÉ,"La Gironde, Casablanca",E-Pace,Jaguar,110 000 - 119 999,Excellent,2019,Oui,5,WW au Maroc,Diesel,Automatique
+261,,Jaguar E-Pace Diesel Automatique 2019 à Rabat,"Massira, Rabat",190,Mercedes-Benz,350 000 - 399 999,Bon,1990,Non,5,Dédouanée,Diesel,Manuelle
+262,50 000 DH,Mercedes-Benz 190 Diesel Manuelle 1990,"Toute la ville, El Kelâa des Sraghna",Range Rover Evoque,Land Rover,70 000 - 74 999,Excellent,2013,Non,5,,Diesel,Automatique
+263,256 000 DH,Rare Evoque à Vendre,"Ancienne Médina, Marrakech",500,Fiat,100 000 - 109 999,Excellent,2019,Oui,3,WW au Maroc,Essence,Automatique
+264,117 000 DH,Fiat 500 Essence Automatique 2019 à Tétouan,"Wilaya, Tétouan",Touareg,Volkswagen,200 000 - 249 999,Très bon,2012,Non,5,WW au Maroc,Diesel,Automatique
+265,135 000 DH,Touareg diesel,"2 Mars, Casablanca",Captur,Renault,130 000 - 139 999,Excellent,2015,Oui,5,WW au Maroc,Diesel,Manuelle
+266,126 000 DH,Renault Cpture intens,"Agdal, Fès",Freelander,Land Rover,200 000 - 249 999,Très bon,2012,,5,,Diesel,Automatique
+267,120 000 DH,Land rover freelander 2 modèle 2012,"Oasis, Casablanca",Touran,Volkswagen,160 000 - 169 999,Excellent,2015,Non,5,Dédouanée,Diesel,Automatique
+268,190 000 DH,Touran Serié Cup full options,"Ziana, Tétouan",Tiguan,Volkswagen,200 000 - 249 999,Excellent,2019,Oui,3,Dédouanée,Diesel,Automatique
+269,,Volkswagen Tiguan Diesel Automatique 2019,"Aïn Chock, Casablanca",Q3,Audi,170 000 - 179 999,Excellent,2019,,,Dédouanée,Diesel,Automatique
+270,,Audi Q3 Diesel Automatique 2019 à Casablanca,"Aïn Chock, Casablanca",Juke,Nissan,40 000 - 44 999,Excellent,2022,Oui,5,WW au Maroc,Essence,Manuelle
+271,,Nissan Juke Essence Manuelle 2022 à Rabat,"Massira, Rabat",Qashqai,Nissan,95 000 - 99 999,Excellent,2021,Oui,5,WW au Maroc,Diesel,Manuelle
+272,,dacia logan,"Iziki, Marrakech",Touareg,Volkswagen,60 000 - 64 999,Excellent,2020,Oui,5,WW au Maroc,Diesel,Automatique
+273,360 000 DH,TOUAREG 60000 km,"Mers Sultan, Casablanca",Caddy,Volkswagen,130 000 - 139 999,Excellent,2016,Oui,5,WW au Maroc,Diesel,Manuelle
+274,,Volkswagen Caddy Diesel Manuelle 2016 à Agadir,"Av Mokawama, Agadir",Classe CLS,Mercedes-Benz,200 000 - 249 999,Neuf,2011,,,Importée neuve,Diesel,Automatique
+275,,Mercedes-Benz Classe CLS Diesel Automatique 2011,"Hay el Fath, Rabat",Série 4,BMW,20 000 - 24 999,Excellent,2024,Oui,5,Importée neuve,Diesel,Automatique
+276,,BMW Série 4 Pack M,"Californie, Casablanca",Clio,Renault,150 000 - 159 999,Excellent,2016,Oui,5,WW au Maroc,Diesel,Automatique
+277,,Renault Clio 4 automatique 2016,"Av Mokawama, Agadir",Touareg,Volkswagen,150 000 - 159 999,Excellent,2019,Oui,5,WW au Maroc,Diesel,Automatique
+278,,Nissan qashqai,"Al Qods, Casablanca",Caddy,Volkswagen,200 000 - 249 999,Très bon,2008,Non,5,Dédouanée,Diesel,Manuelle
+279,,VOLKSWAGEN CADDY M2008 D2012,"Zerhounia, Meknès",Avenger,Jeep,5 000 - 9 999,Excellent,2024,Oui,5,WW au Maroc,Hybride,Automatique
+280,285 000 DH,JEEP AVENGER 08/2024 FULL OPTION,"Issil, Marrakech",Macan,Porsche,90 000 - 94 999,Excellent,2021,Oui,5,WW au Maroc,Essence,Automatique
+281,,Porshe Mancan S 2021,"Hay Targa, Marrakech",Tiguan,Volkswagen,90 000 - 94 999,Neuf,2021,Oui,5,WW au Maroc,Diesel,Automatique
+282,325 000 DH,tiguan model 2021,"Oulfa, Casablanca",A5,Audi,100 000 - 109 999,Excellent,2010,Non,5,Dédouanée,Essence,Automatique
+283,150 000 DH,S5 V6T B8 3L TFSI STAGE2,"Sidi Ghanem, Marrakech",Karoq,Skoda,120 000 - 129 999,Excellent,2020,Oui,5,Dédouanée,Diesel,Automatique
+284,,Skoda Karoq Diesel Automatique 2020 à Settat,"Toute la ville, Settat",Sandero,Dacia,90 000 - 94 999,Excellent,2022,Oui,5,WW au Maroc,Essence,Automatique
+285,125 000 DH,Dacia Sandero Stepway automatique,"Agdal, Fès",Q7,Audi,200 000 - 249 999,Très bon,2009,Non,5,Dédouanée,Diesel,Automatique
+286,,Audi Q7 Diesel Automatique 2009 à Rabat,"Hay el Fath, Rabat",Série 5,BMW,120 000 - 129 999,Excellent,2017,Oui,5,WW au Maroc,Diesel,Automatique
+287,,BMW Série 530d pack M,"Hay Riad, Rabat",XC60,Volvo,200 000 - 249 999,Excellent,2018,Non,5,WW au Maroc,Diesel,Automatique
+288,270 000 DH,"Volvo XC60 – Élégance, Sécurité et Performance","Hay Salam, Salé",Caddy,Volkswagen,180 000 - 189 999,Excellent,2018,,,Dédouanée,Diesel,Automatique
+289,,Volkswagen Caddy Diesel Autom,"Aïn Chock, Casablanca",208,Peugeot,90 000 - 94 999,Excellent,2023,Oui,,,Diesel,Manuelle
+290,,Peugeot 208 allure 2023,"Massira 2, Marrakech",Karoq,Skoda,130 000 - 139 999,Neuf,2020,Non,5,Dédouanée,Diesel,Automatique
+291,,Skoda Karoq Diesel Automatique 2020 Ded 02/2025,"Abattoirs, Agadir",Sandero,Dacia,140 000 - 149 999,Très bon,2022,Oui,5,WW au Maroc,Diesel,Manuelle
+292,137 000 DH,DACIA SANDERO STEPWAY TT OPTIONS,"Centre, Kénitra",Sandero,Dacia,200 000 - 249 999,,2014,Non,5,WW au Maroc,Diesel,Manuelle
+293,113 000 DH,Renault Clio Diesel Manuelle 2017 à Béni Mellal,"Toute la ville, Béni Mellal",Clio,Renault,100 000 - 109 999,Très bon,2017,,5,WW au Maroc,Diesel,Manuelle
+294,60 000 DH,207 essnace,"El Qaria, Salé",207,Peugeot,250 000 - 299 999,Très bon,2008,Non,5,WW au Maroc,Essence,Manuelle
+295,78 000 DH,Volkswagen Polo Essence Manuelle 2011 à Tanger,"Centre ville, Tanger",Polo,Volkswagen,20 000 - 24 999,Très bon,2011,Non,5,WW au Maroc,Essence,Manuelle
+296,112 000 DH,dacia Duster en très bon état,"Azzouzia, Marrakech",Duster,Dacia,170 000 - 179 999,Très bon,2010,,,,Diesel,Manuelle
+297,70 000 DH,Ssangyoung corando diesel Reprise,"Tilila, Agadir",Korando,Ssangyong,170 000 - 179 999,Bon,2011,Non,5,WW au Maroc,Diesel,Manuelle
+298,,Porsche Macan S Diesel Automatique,"Hay Chrifa, Casablanca",Classe C,Mercedes-Benz,20 000 - 24 999,Excellent,2021,Oui,3,Importée neuve,Diesel,Automatique
+299,,Mercedes-Benz Classe C Cabriolet Diesel 2016,"Anfa, Casablanca",Tucson,Hyundai,70 000 - 74 999,Excellent,2023,,5,WW au Maroc,Hybride,Automatique
+300,335 000 DH,Hyundai Tucson Hybride Automatique 2023,"Ain Sebaa, Casablanca",Dokker,Dacia,75 000 - 79 999,Excellent,2020,Oui,,WW au Maroc,Diesel,Manuelle
+301,155 000 DH,dacia doker,"Agdal, Fès",Arteon,Volkswagen,170 000 - 179 999,Très bon,2019,Oui,5,WW au Maroc,Diesel,Automatique
+302,235 000 DH,Volkswagen Arteon business 2019,"Centre, El Jadida",Accent,Hyundai,140 000 - 149 999,Excellent,2017,Non,5,WW au Maroc,Diesel,Manuelle
+303,112 000 DH,hyundai accent diesel,"Agdal, Fès",Range Rover Sport,Land Rover,130 000 - 139 999,Excellent,2019,Non,5,WW au Maroc,Diesel,Automatique
+304,,ford kuga 2021,"Aïn Chock, Casablanca",Kuga,Ford,90 000 - 94 999,Excellent,2021,Oui,5,WW au Maroc,Diesel,Automatique
+305,390 000 DH,Jeep wrangler,"Aïn Diab, Casablanca",Wrangler,Jeep,100 000 - 109 999,Excellent,2020,Oui,5,WW au Maroc,Diesel,Automatique
+306,179 000 DH,Jeep Renegade Diesel Automatique 2022 à Marrakech,"Hay Targa, Marrakech",Renegade,Jeep,100 000 - 109 999,Excellent,2022,Oui,5,WW au Maroc,Diesel,Automatique
+307,70 000 DH,kangoo D65 Mazout Modèle 2008,"Tilila, Agadir",Kangoo,Renault,190 000 - 199 999,Bon,2008,Non,5,WW au Maroc,Diesel,Manuelle
+308,,Mercedes-Benz Classe GLE 300d,"Hay Riad, Rabat",Classe GLE,Mercedes-Benz,60 000 - 64 999,Excellent,2021,Oui,5,WW au Maroc,Diesel,Automatique
+309,,Audi Q5 Automatique,"Ain Sebaa, Casablanca",Q5,Audi,350 000 - 399 999,Excellent,2009,,5,,Diesel,Automatique
+310,,Kia Picanto Essence Manuelle 2021 à El Jadida,"Jawhara, El Jadida",Picanto,Kia,90 000 - 94 999,Excellent,2021,Oui,5,WW au Maroc,Essence,Manuelle
+311,,Jeep Compass Diesel Manuelle 2021 à Agadir,"Av Mokawama, Agadir",Compass,Jeep,85 000 - 89 999,Excellent,2021,Oui,5,WW au Maroc,Diesel,Manuelle
+312,,Ferrari California Essence Automatique 2012,"Anfa, Casablanca",California,Ferrari,80 000 - 84 999,Très bon,2012,Non,3,Dédouanée,Essence,Automatique
+313,285 000 DH,Volkswagen T-Roc Diesel Automatique 2021 à Salé,"Lakhmis, Salé",T-Roc,Volkswagen,170 000 - 179 999,Très bon,2021,Oui,5,WW au Maroc,Diesel,Automatique
+314,320 000 DH,BMW X6 3.0 DIESEL,"Mers Sultan, Casablanca",X6,BMW,150 000 - 159 999,Très bon,2017,Non,5,WW au Maroc,Diesel,Automatique
+315,,Skoda Karoq Diesel Automatique 2022 Ded 02/2025,"Ville Nouvelle, Agadir",Karoq,Skoda,160 000 - 169 999,Neuf,2022,Oui,5,Dédouanée,Diesel,Automatique
+316,,Mercedes-Benz Classe C Diesel Automatique 2017,"Toute la ville, Al Hoceima",Classe C,Mercedes-Benz,100 000 - 109 999,Excellent,2017,Non,5,Dédouanée,Diesel,Automatique
+317,470 000 DH,Porshe Mancan S 2021,"Hay Targa, Marrakech",Macan,Porsche,90 000 - 94 999,Excellent,2021,Oui,5,WW au Maroc,Essence,Automatique
+318,294 000 DH,Volkswagen T-Roc Diesel Automatique 2023,"Hay Targa, Marrakech",T-Roc,Volkswagen,110 000 - 119 999,Excellent,2023,Oui,5,WW au Maroc,Diesel,Automatique
+319,,BMW X6 XDRIVE PACK « M » 2021,"Mers Sultan, Casablanca",X6,BMW,70 000 - 74 999,Très bon,2021,Non,5,WW au Maroc,Diesel,Automatique
+320,,PORSCHE 911 CARRERA CABRIOLET BOÎTE MANUELLE,"Mers Sultan, Casablanca",911,Porsche,90 000 - 94 999,Très bon,2008,Non,3,WW au Maroc,Essence,Manuelle
+321,,Fiat 500 X Automatique 4×4,"Hay el Fath, Rabat",500X,Fiat,45 000 - 49 999,Excellent,2023,Oui,5,WW au Maroc,Diesel,Automatique
+322,,Porsche 911Carrera Facelift Pack SportDesign(2025),"Maarif, Casablanca",Carrera,Porsche,0 - 4 999,Neuf,2024,Oui,3,Importée neuve,Essence,Automatique
+323,,Kia Picanto Essence Manuelle 2022 à El Jadida,"Najd, El Jadida",Picanto,Kia,30 000 - 34 999,Neuf,2022,,,WW au Maroc,Essence,Manuelle
+324,145 000 DH,Opel Astra Diesel Automatique 2019 à Fès,"Agdal, Fès",Astra,Opel,200 000 - 249 999,Très bon,2019,Oui,5,WW au Maroc,Diesel,Automatique
+325,,Mercedes-Benz 300 Diesel Au hybride 2020 à Fès,"Narjis, Fès",300,Mercedes-Benz,45 000 - 49 999,Excellent,2020,Oui,5,Dédouanée,Diesel,Automatique
+326,220 000 DH,Peugeot 3008,"Autre secteur, Rabat",2008,Peugeot,65 000 - 69 999,Neuf,2020,Oui,5,WW au Maroc,Diesel,Manuelle
+327,140 000 DH,Peugeot 208 tout option 2021 à Fès,"Agdal, Fès",208,Peugeot,80 000 - 84 999,Excellent,2021,Oui,5,WW au Maroc,Diesel,Manuelle
+328,,Land Rover Range Rover Evoque Diesel Automatique,"Oulfa, Casablanca",Range Rover Evoque,Land Rover,100 000 - 109 999,Très bon,2019,Non,5,WW au Maroc,Diesel,Automatique
+329,,Audi A4 Diesel Automatique 2017 à Agadir,"Av Mokawama, Agadir",A4,Audi,120 000 - 129 999,Excellent,2017,Oui,5,WW au Maroc,Diesel,Automatique
+330,,RANGE ROVER SPORT M2013,"Zerhounia, Meknès",Range Rover Sport,Land Rover,160 000 - 169 999,Excellent,2013,Non,5,WW au Maroc,Diesel,Automatique
+331,390 000 DH,Audi Q7 diesel 2019,"Belvédère, Casablanca",Q7,Audi,55 000 - 59 999,Neuf,2019,Oui,5,WW au Maroc,Diesel,Automatique
+332,,volkswagen tegwan pak r lin,"Autre secteur, Tanger",Tiguan,Volkswagen,180 000 - 189 999,Très bon,2016,Non,5,Dédouanée,Diesel,Automatique
+333,144 000 DH,Peugeot 208,"Wilaya, Tétouan",208,Peugeot,70 000 - 74 999,,2020,Non,5,WW au Maroc,Diesel,Manuelle
+334,268 000 DH,Land Rover Range Rover Sport Diesel Automatique,"Hay Targa, Marrakech",Range Rover Sport,Land Rover,160 000 - 169 999,Excellent,2016,Non,5,WW au Maroc,Diesel,Automatique
+335,,Volkswagen Tiguan Diesel Automatique 2021,"Aïn Chock, Casablanca",Tiguan,Volkswagen,90 000 - 94 999,Excellent,2021,,,Dédouanée,Diesel,Automatique
+336,,Skoda Kodiaq Automatique2019 Ded02/2025 7place 4*4,"Ville Nouvelle, Agadir",Kodiaq,Skoda,120 000 - 129 999,Neuf,2019,Non,5,Dédouanée,Diesel,Automatique
+337,,Citroën C5 Aircross Diesel 2022 à Rabat,"Massira, Rabat",C5,Citroen,130 000 - 139 999,Excellent,2022,Oui,5,WW au Maroc,Diesel,Manuelle
+338,,Mercedes-Benz 220 Diesel Automatique 2022 à Fès,"Narjis, Fès",220,Mercedes-Benz,65 000 - 69 999,Excellent,2022,Oui,5,,Diesel,Automatique
+339,,Skoda Karoq Diesel Automatique 2020Ded 2025 Agadir,"Ville Nouvelle, Agadir",Karoq,Skoda,120 000 - 129 999,Neuf,2020,Non,5,,Diesel,Automatique
+340,,Mercedes-Benz Classe GLE Coupé Diesel 2024,"Aïn Chock, Casablanca",Classe GLE,Mercedes-Benz,0 - 4 999,Neuf,2024,Oui,5,Importée neuve,Diesel,Automatique
+341,235 000 DH,Maserati Ghibli Diesel Automatique 2014,"Ain Sebaa, Casablanca",Ghibli,Maserati,80 000 - 84 999,Excellent,2014,Oui,5,WW au Maroc,Diesel,Automatique
+342,,Renault Trafic Diesel Manuelle 2021 à Casablanca,"Aïn Borja, Casablanca",Trafic,Renault,100 000 - 109 999,Très bon,2021,Oui,5,WW au Maroc,Diesel,Manuelle
+343,,Mercedes-Benz Classe CLA Diesel Automatique 2022,"Oulfa, Casablanca",Classe CLA,Mercedes-Benz,55 000 - 59 999,Très bon,2022,Oui,5,Dédouanée,Diesel,Automatique
+344,136 000 DH,a5 coupé 3.0tdi quattro,"Maarif, Casablanca",A5,Audi,160 000 - 169 999,Très bon,2010,Non,3,WW au Maroc,Diesel,Automatique
+345,105 000 DH,Isuzu D.MAX mliha,"Toute la ville, Béni Mellal",D-Max,Isuzu,300 000 - 349 999,Très bon,2008,Non,3,WW au Maroc,Diesel,Manuelle
+346,,Kia Picanto Essence Manuelle 2022 à El Jadida,"Najd, El Jadida",Picanto,Kia,30 000 - 34 999,Neuf,2022,,,WW au Maroc,Essence,Manuelle
+347,145 000 DH,Opel Astra Diesel Automatique 2019 à Fès,"Agdal, Fès",Astra,Opel,200 000 - 249 999,Très bon,2019,Oui,5,WW au Maroc,Diesel,Automatique
+348,,Mercedes-Benz 300 Diesel Au hybride 2020 à Fès,"Narjis, Fès",300,Mercedes-Benz,45 000 - 49 999,Excellent,2020,Oui,5,Dédouanée,Diesel,Automatique
+349,220 000 DH,Peugeot 3008,"Autre secteur, Rabat",2008,Peugeot,65 000 - 69 999,Neuf,2020,Oui,5,WW au Maroc,Diesel,Manuelle
+350,140 000 DH,Peugeot 208 tout option 2021 à Fès,"Agdal, Fès",208,Peugeot,80 000 - 84 999,Excellent,2021,Oui,5,WW au Maroc,Diesel,Manuelle
+351,,Land Rover Range Rover Evoque Diesel Automatique,"Oulfa, Casablanca",Range Rover Evoque,Land Rover,100 000 - 109 999,Très bon,2019,Non,5,WW au Maroc,Diesel,Automatique
+352,,Audi A4 Diesel Automatique 2017 à Agadir,"Av Mokawama, Agadir",A4,Audi,120 000 - 129 999,Excellent,2017,Oui,5,WW au Maroc,Diesel,Automatique
+353,,RANGE ROVER SPORT M2013,"Zerhounia, Meknès",Range Rover Sport,Land Rover,160 000 - 169 999,Excellent,2013,Non,5,WW au Maroc,Diesel,Automatique
+354,390 000 DH,Audi Q7 diesel 2019,"Belvédère, Casablanca",Q7,Audi,55 000 - 59 999,Neuf,2019,Oui,5,WW au Maroc,Diesel,Automatique
+355,,volkswagen tegwan pak r lin,"Autre secteur, Tanger",Tiguan,Volkswagen,180 000 - 189 999,Très bon,2016,Non,5,Dédouanée,Diesel,Automatique
+356,144 000 DH,Peugeot 208,"Wilaya, Tétouan",208,Peugeot,70 000 - 74 999,,2020,Non,5,WW au Maroc,Diesel,Manuelle
+357,268 000 DH,Land Rover Range Rover Sport Diesel Automatique,"Hay Targa, Marrakech",Range Rover Sport,Land Rover,160 000 - 169 999,Excellent,2016,Non,5,WW au Maroc,Diesel,Automatique
+358,,Volkswagen Tiguan Diesel Automatique 2021,"Aïn Chock, Casablanca",Tiguan,Volkswagen,90 000 - 94 999,Excellent,2021,,,Dédouanée,Diesel,Automatique
+359,,Skoda Kodiaq Automatique2019 Ded02/2025 7place 4*4,"Ville Nouvelle, Agadir",Kodiaq,Skoda,120 000 - 129 999,Neuf,2019,Non,5,Dédouanée,Diesel,Automatique
+360,,Citroën C5 Aircross Diesel 2022 à Rabat,"Massira, Rabat",C5,Citroen,130 000 - 139 999,Excellent,2022,Oui,5,WW au Maroc,Diesel,Manuelle
+361,,Mercedes-Benz 220 Diesel Automatique 2022 à Fès,"Narjis, Fès",220,Mercedes-Benz,65 000 - 69 999,Excellent,2022,Oui,5,,Diesel,Automatique
+362,,Skoda Karoq Diesel Automatique 2020Ded 2025 Agadir,"Ville Nouvelle, Agadir",Karoq,Skoda,120 000 - 129 999,Neuf,2020,Non,5,,Diesel,Automatique
+363,,Mercedes-Benz Classe GLE Coupé Diesel 2024,"Aïn Chock, Casablanca",Classe GLE,Mercedes-Benz,0 - 4 999,Neuf,2024,Oui,5,Importée neuve,Diesel,Automatique
+364,235 000 DH,Maserati Ghibli Diesel Automatique 2014,"Ain Sebaa, Casablanca",Ghibli,Maserati,80 000 - 84 999,Excellent,2014,Oui,5,WW au Maroc,Diesel,Automatique
+365,,Renault Trafic Diesel Manuelle 2021 à Casablanca,"Aïn Borja, Casablanca",Trafic,Renault,100 000 - 109 999,Très bon,2021,Oui,5,WW au Maroc,Diesel,Manuelle
+366,,Mercedes-Benz Classe CLA Diesel Automatique 2022,"Oulfa, Casablanca",Classe CLA,Mercedes-Benz,55 000 - 59 999,Très bon,2022,Oui,5,Dédouanée,Diesel,Automatique
+367,136 000 DH,a5 coupé 3.0tdi quattro,"Maarif, Casablanca",A5,Audi,160 000 - 169 999,Très bon,2010,Non,3,WW au Maroc,Diesel,Automatique
+368,105 000 DH,Isuzu D.MAX mliha,"Toute la ville, Béni Mellal",D-Max,Isuzu,300 000 - 349 999,Très bon,2008,Non,3,WW au Maroc,Diesel,Manuelle
+369,125 000 DH,BMW Série 5 Diesel Automatique 2010 à Rabat,"Diour Jamaa, Rabat",Série 5,BMW,300 000 - 349 999,Très bon,2010,Non,5,WW au Maroc,Diesel,Automatique
+370,220 000 DH,BMW SERIES 4 420,"Hay Riad, Rabat",Série 4,BMW,160 000 - 169 999,Excellent,2014,Non,5,WW au Maroc,Diesel,Automatique
+371,125 000 DH,BMW Série 5 Diesel Automatique 2010 à Rabat,"Diour Jamaa, Rabat",Série 5,BMW,300 000 - 349 999,Très bon,2010,Non,5,WW au Maroc,Diesel,Automatique
+372,125 000 DH,BMW Série 5 Diesel Automatique 2010 à Rabat,"Diour Jamaa, Rabat",Série 5,BMW,300 000 - 349 999,Très bon,2010,Non,5,WW au Maroc,Diesel,Automatique
+373,250 000 DH,"golf 7,5 gti ligne akra povic","Toute la ville, Béni Mellal",Golf 7,Volkswagen,150 000 - 159 999,Excellent,2017,Oui,5,Dédouanée,Essence,Automatique
+374,110 000 DH,toyota yaris,"Hay Chmaou, Salé",Yaris,Toyota,90 000 - 94 999,Très bon,2017,Non,5,,Diesel,Manuelle
+375,178 000 DH,Skoda octavia bon etat 2018,"Tilila, Agadir",Octavia,Skoda,160 000 - 169 999,Très bon,2018,,,,Diesel,Manuelle
+376,,Volkdwagen Touareg Diesel Automatique 2023,"Californie, Casablanca",Touareg,Volkswagen,50 000 - 54 999,Excellent,2023,Oui,5,WW au Maroc,Diesel,Automatique
+377,,Peugeot 3008 Diesel Automatique 2019 à Rabat,"Massira, Rabat",3008,Peugeot,140 000 - 149 999,Excellent,2019,Oui,5,WW au Maroc,Diesel,Automatique
+378,299 000 DH,Land Rover Range Rover Evoque Diesel Automatique,"Targa, Marrakech",Range Rover Evoque,Land Rover,120 000 - 129 999,Très bon,2019,Oui,5,WW au Maroc,Diesel,Automatique
+379,,Mercedes-Benz Classe S AMG Coupe,"Quartier des Hôpitaux, Casablanca",Classe S,Mercedes-Benz,90 000 - 94 999,Excellent,2019,Oui,3,Importée neuve,Essence,Automatique
+380,,tiguan 2018 à Rabat,"Hay Riad, Rabat",Tiguan,Volkswagen,100 000 - 109 999,Excellent,2018,Oui,5,WW au Maroc,Diesel,Automatique
+381,107 000 DH,volkswagen Golf 6 diesel,"Guich Oudaya, Rabat",Golf 6,Volkswagen,190 000 - 199 999,Très bon,2010,Non,5,WW au Maroc,Diesel,Manuelle
+382,170 000 DH,Range Rover Sport Autobiography,"Wilaya, Tétouan",Range Rover Sport,Land Rover,180 000 - 189 999,Excellent,2011,Non,5,Importée neuve,Diesel,Automatique
+383,,BMW Série 740ld,"Aïn Diab, Casablanca",Série 7,BMW,190 000 - 199 999,Excellent,2018,,5,Importée neuve,Diesel,Automatique
+384,120 000 DH,Renault Captur Diesel Manuelle 2015 à Casablanca,"Californie, Casablanca",Captur,Renault,110 000 - 119 999,Très bon,2015,Oui,5,WW au Maroc,Diesel,Manuelle
+385,,volkswagen,"Al aroui, Nador",Passat,Volkswagen,25 000 - 29 999,Excellent,2006,Non,,Dédouanée,Diesel,Manuelle
+386,40 000 DH,clio,"Said Hajji, Salé",Clio,Renault,30 000 - 34 999,Très bon,2000,Non,5,WW au Maroc,Essence,Manuelle
+387,78 000 DH,fiat,"Toute la ville, Berrechid",Grande Punto,Fiat,190 000 - 199 999,Excellent,2014,Non,5,WW au Maroc,Diesel,Manuelle
+388,,bmw série 420 grand coupé,"Oasis, Casablanca",Série 4,BMW,0 - 4 999,Neuf,2024,Oui,5,WW au Maroc,Diesel,Automatique
+389,,Volkswagen Passat CC Diesel Manuelle 2018 à Safi,"Hay Essaâda, Safi",Passat CC,Volkswagen,140 000 - 149 999,Neuf,2018,Oui,5,WW au Maroc,Diesel,Manuelle
+390,,Mercedes classe V Maybach,"Oasis, Casablanca",Classe V,Mercedes-Benz,55 000 - 59 999,Neuf,2018,Oui,5,Importée neuve,Diesel,Automatique
+391,,Volkswagen Touareg automatique 2023,"Av Mokawama, Agadir",Touareg,Volkswagen,70 000 - 74 999,Neuf,2023,Oui,5,WW au Maroc,Diesel,Automatique
+392,98 000 DH,Mini Mini,"Aïn Diab, Casablanca",Mini Coupé,Mini,40 000 - 44 999,Très bon,2007,Oui,3,WW au Maroc,Essence,Manuelle
+393,,Skouda Kodiaq elka,"Aïn Chock, Casablanca",Kodiaq,Skoda,110 000 - 119 999,Excellent,2021,Oui,5,Dédouanée,Diesel,Automatique
+394,800 000 DH,Audi Q8 Quatre,"Medina, Salé",Q8,Audi,70 000 - 74 999,Excellent,2022,Oui,5,WW au Maroc,Diesel,Automatique
+395,,Citroen Berlingo Diesel Manuelle 2021 à Fès,"Route Ain Chkaf, Fès",Berlingo,Citroen,100 000 - 109 999,Excellent,2021,Oui,5,WW au Maroc,Diesel,Manuelle
+396,132 000 DH,VOLVO S60 D4 R-DESIGN,"Riad Oulad Mtaa, Temara",S60,Volvo,200 000 - 249 999,Très bon,2015,Non,,WW au Maroc,Diesel,Automatique
+397,,Audi A5 S line Diesel,"Aïn Chock, Casablanca",A5,Audi,0 - 4 999,Neuf,2025,Non,5,Importée neuve,Diesel,Automatique
+398,,Mercedes-Benz Classe GLC 300de pack AMG 2021,"Route Ain Chkaf, Fès",Classe GLC,Mercedes-Benz,95 000 - 99 999,Excellent,2021,Oui,5,Dédouanée,Diesel,Automatique
+399,,alfa Romeo-Giulietta Automatique,"Hay Riad, Rabat",Giulietta,Alfa Romeo,95 000 - 99 999,Excellent,2020,Oui,5,WW au Maroc,Diesel,Automatique
+400,,Mercedes-Benz 300 Diesel Automatique 2020 à Fès,"Narjis, Fès",300,Mercedes-Benz,95 000 - 99 999,Excellent,2020,,5,Dédouanée,Diesel,Automatique
+401,,Mercedes-Benz Vito Transport touristique,"Aïn Borja, Casablanca",Vito,Mercedes-Benz,130 000 - 139 999,Excellent,2019,,5,Dédouanée,Diesel,Automatique
+402,,Peugeot Rifter Diesel Manuelle 2022 à Tanger,"Achakar, Tanger",Rifter,Peugeot,40 000 - 44 999,Excellent,2022,Oui,5,WW au Maroc,Diesel,Manuelle
+403,,Bmw X4 pack M modèle 2016 full option 2L diesel,"Hay Riad, Rabat",X4,BMW,20 000 - 24 999,Très bon,2016,Oui,5,Importée neuve,Diesel,Automatique
+404,,Dacia Duster,"Maarif, Casablanca",Duster,Dacia,30 000 - 34 999,Neuf,2021,Oui,5,WW au Maroc,Diesel,Manuelle
+405,162 000 DH,Opel corsa Gs model 2022,"Hamria, Meknès",Corsa,Opel,90 000 - 94 999,Excellent,2022,Oui,5,WW au Maroc,Diesel,Manuelle
+406,,Skoda Karoq Diesel Automatique 2020 Ded 04/2025,"Abattoirs, Agadir",Karoq,Skoda,140 000 - 149 999,Neuf,2020,Non,5,Dédouanée,Diesel,Automatique
+407,150 000 DH,Jeep grand Cherokee overland 2019,"Belvédère, Casablanca",Grand Cherokee,Jeep,120 000 - 129 999,Excellent,2019,Non,5,WW au Maroc,Diesel,Automatique
+408,,Volkswagen touareg diesel,"Massira, Rabat",Touareg,Volkswagen,130 000 - 139 999,Excellent,2021,Oui,5,WW au Maroc,Diesel,Automatique
+409,300 000 DH,jeep compass,"Autre secteur, Casablanca",Compass,Jeep,30 000 - 34 999,Excellent,2023,Oui,5,WW au Maroc,Hybride,Automatique
+410,,Cayenne Coupé-S Hybride Sport Design(Neuve 2025),"Maarif, Casablanca",Cayenne,Porsche,0 - 4 999,Neuf,2025,Oui,5,Importée neuve,Hybride,Automatique
+411,660 000 DH,Touareg R Line,"Wilaya, Tétouan",Touareg,Volkswagen,80 000 - 84 999,,2022,Non,5,WW au Maroc,Diesel,Automatique
+412,,Volkswagen Touareg automatique 2018,"Av Mokawama, Agadir",Touareg,Volkswagen,190 000 - 199 999,Excellent,2018,Oui,5,WW au Maroc,Diesel,Automatique
+413,,Porsche 911 Carrera 4GTS 2025,"Maarif, Casablanca",911,Porsche,0 - 4 999,Neuf,2025,,3,Importée neuve,Essence,Automatique
+414,,Peugeot 208 Diesel Manuelle 2023 à Rabat,"Hay Riad, Rabat",208,Peugeot,35 000 - 39 999,Excellent,2023,Oui,5,WW au Maroc,Diesel,Manuelle
+415,,Volkswagen Touareg automatique 2023,"Av Mokawama, Agadir",Touareg,Volkswagen,70 000 - 74 999,Neuf,2023,Oui,5,WW au Maroc,Diesel,Automatique
+416,98 000 DH,Mini Mini,"Aïn Diab, Casablanca",Mini Coupé,Mini,40 000 - 44 999,Très bon,2007,Oui,3,WW au Maroc,Essence,Manuelle
+417,,Skouda Kodiaq elka,"Aïn Chock, Casablanca",Kodiaq,Skoda,110 000 - 119 999,Excellent,2021,Oui,5,Dédouanée,Diesel,Automatique
+418,800 000 DH,Audi Q8 Quatre,"Medina, Salé",Q8,Audi,70 000 - 74 999,Excellent,2022,Oui,5,WW au Maroc,Diesel,Automatique
+419,,Citroen Berlingo Diesel Manuelle 2021 à Fès,"Route Ain Chkaf, Fès",Berlingo,Citroen,100 000 - 109 999,Excellent,2021,Oui,5,WW au Maroc,Diesel,Manuelle
+420,132 000 DH,VOLVO S60 D4 R-DESIGN,"Riad Oulad Mtaa, Temara",S60,Volvo,200 000 - 249 999,Très bon,2015,Non,,WW au Maroc,Diesel,Automatique
+421,,Audi A5 S line Diesel,"Aïn Chock, Casablanca",A5,Audi,0 - 4 999,Neuf,2025,Non,5,Importée neuve,Diesel,Automatique
+422,,Mercedes-Benz Classe GLC 300de pack AMG 2021,"Route Ain Chkaf, Fès",Classe GLC,Mercedes-Benz,95 000 - 99 999,Excellent,2021,Oui,5,Dédouanée,Diesel,Automatique
+423,,alfa Romeo-Giulietta Automatique,"Hay Riad, Rabat",Giulietta,Alfa Romeo,95 000 - 99 999,Excellent,2020,Oui,5,WW au Maroc,Diesel,Automatique
+424,,Mercedes-Benz 300 Diesel Automatique 2020 à Fès,"Narjis, Fès",300,Mercedes-Benz,95 000 - 99 999,Excellent,2020,,5,Dédouanée,Diesel,Automatique
+425,,Mercedes-Benz Vito Transport touristique,"Aïn Borja, Casablanca",Vito,Mercedes-Benz,130 000 - 139 999,Excellent,2019,,5,Dédouanée,Diesel,Automatique
+426,,Peugeot Rifter Diesel Manuelle 2022 à Tanger,"Achakar, Tanger",Rifter,Peugeot,40 000 - 44 999,Excellent,2022,Oui,5,WW au Maroc,Diesel,Manuelle
+427,,Bmw X4 pack M modèle 2016 full option 2L diesel,"Hay Riad, Rabat",X4,BMW,20 000 - 24 999,Très bon,2016,Oui,5,Importée neuve,Diesel,Automatique
+428,,Dacia Duster,"Maarif, Casablanca",Duster,Dacia,30 000 - 34 999,Neuf,2021,Oui,5,WW au Maroc,Diesel,Manuelle
+429,162 000 DH,Opel corsa Gs model 2022,"Hamria, Meknès",Corsa,Opel,90 000 - 94 999,Excellent,2022,Oui,5,WW au Maroc,Diesel,Manuelle
+430,,Skoda Karoq Diesel Automatique 2020 Ded 04/2025,"Abattoirs, Agadir",Karoq,Skoda,140 000 - 149 999,Neuf,2020,Non,5,Dédouanée,Diesel,Automatique
+431,150 000 DH,Jeep grand Cherokee overland 2019,"Belvédère, Casablanca",Grand Cherokee,Jeep,120 000 - 129 999,Excellent,2019,Non,5,WW au Maroc,Diesel,Automatique
+432,,Volkswagen touareg diesel,"Massira, Rabat",Touareg,Volkswagen,130 000 - 139 999,Excellent,2021,Oui,5,WW au Maroc,Diesel,Automatique
+433,300 000 DH,jeep compass,"Autre secteur, Casablanca",Compass,Jeep,30 000 - 34 999,Excellent,2023,Oui,5,WW au Maroc,Hybride,Automatique
+434,,Cayenne Coupé-S Hybride Sport Design(Neuve 2025),"Maarif, Casablanca",Cayenne,Porsche,0 - 4 999,Neuf,2025,Oui,5,Importée neuve,Hybride,Automatique
+435,660 000 DH,Touareg R Line,"Wilaya, Tétouan",Touareg,Volkswagen,80 000 - 84 999,,2022,Non,5,WW au Maroc,Diesel,Automatique
+436,,Volkswagen Touareg automatique 2018,"Av Mokawama, Agadir",Touareg,Volkswagen,190 000 - 199 999,Excellent,2018,Oui,5,WW au Maroc,Diesel,Automatique
+437,,Porsche 911 Carrera 4GTS 2025,"Maarif, Casablanca",911,Porsche,0 - 4 999,Neuf,2025,,3,Importée neuve,Essence,Automatique
+438,,Peugeot 208 Diesel Manuelle 2023 à Rabat,"Hay Riad, Rabat",208,Peugeot,35 000 - 39 999,Excellent,2023,Oui,5,WW au Maroc,Diesel,Manuelle
+439,,TIGUAN AUTOMATIQUE M2018,"Zerhounia, Meknès",Tiguan,Volkswagen,170 000 - 179 999,Excellent,2018,Non,5,WW au Maroc,Diesel,Automatique
+440,,Volkswagen Caddy Diesel Automatique 2021 à Agadir,"Ville Nouvelle, Agadir",Caddy,Volkswagen,160 000 - 169 999,Neuf,2021,Oui,5,WW au Maroc,Diesel,Automatique
+441,,Audi Q2 Diesel Automatique 2021 à Casablanca,"Aïn Chock, Casablanca",Q2,Audi,100 000 - 109 999,Excellent,2021,Non,,Dédouanée,Diesel,Automatique
+442,,Volkswagen Tiguan R-Line Diesel Automatique 2021,"Oulfa, Casablanca",Tiguan,Volkswagen,100 000 - 109 999,Excellent,2021,Non,5,Dédouanée,Diesel,Automatique
+443,115 000 DH,Clio intense Faiibl kilométrage,"Aïn Diab, Casablanca",Golf 7,Volkswagen,130 000 - 139 999,Excellent,2013,Oui,5,Dédouanée,Diesel,Manuelle
+444,,Audi Q5 Diesel Automatique 2021 à Fès,"Narjis, Fès",Clio,Renault,80 000 - 84 999,Excellent,2015,,5,,Diesel,Manuelle
+445,185 000 DH,Volkswagen Touareg Diesel Automatique,"Hay Hassani, Casablanca",Q5,Audi,65 000 - 69 999,Excellent,2021,Oui,5,Dédouanée,Diesel,Automatique
+446,,Opel Adam Essence 2017 à Rabat,"Massira, Rabat",Touareg,Volkswagen,180 000 - 189 999,Très bon,2015,Non,3,WW au Maroc,Diesel,Automatique
+447,,DACIA DUSTER M2018,"Zerhounia, Meknès",Adam,Opel,100 000 - 109 999,Excellent,2017,,3,WW au Maroc,Essence,Manuelle
+448,170 000 DH,Mercedes C200 fin 2013,"Sidi Moumen, Casablanca",Duster,Dacia,200 000 - 249 999,Excellent,2018,Non,5,WW au Maroc,Diesel,Manuelle
+449,,Skoda Kodiaq Diesel Automatique 2023 à Casablanca,"Aïn Chock, Casablanca",220,Mercedes-Benz,250 000 - 299 999,Excellent,2014,Non,5,WW au Maroc,Diesel,Manuelle
+450,135 000 DH,Jeep Grand Cherokee Limited,"Aïn Diab, Casablanca",Kodiaq,Skoda,45 000 - 49 999,Très bon,2023,Oui,5,WW au Maroc,Diesel,Automatique
+451,,Volkswagen Tiguan Diesel Automatique 2019,"Aïn Chock, Casablanca",Grand Cherokee,Jeep,200 000 - 249 999,Très bon,2017,,5,WW au Maroc,Diesel,Automatique
+452,,Nissan Qashqai Diesel Manuelle 2020 à Agadir,"Av Mokawama, Agadir",Tiguan,Volkswagen,130 000 - 139 999,Excellent,2019,Non,5,Dédouanée,Diesel,Automatique
+453,420 000 DH,Audi Q5 Diesel Automatique 2021 à Casablanca,"Maarif, Casablanca",Qashqai,Nissan,100 000 - 109 999,Excellent,2020,Oui,5,WW au Maroc,Diesel,Manuelle
+454,187 000 DH,VOLKSWAGEN JETTA 2L TDI FULL OPTIONS,"Bel Air - Val fleuri, Tanger",Q5,Audi,15 000 - 19 999,Excellent,2021,Oui,5,WW au Maroc,Diesel,Automatique
+455,,Peugeot 208 Diesel Manuelle 2021 à Rabat,"Hassan, Rabat",Jetta,Volkswagen,95 000 - 99 999,Excellent,2019,Oui,5,WW au Maroc,Diesel,Automatique
+456,,volkswagen touran highline 7places 1ére main,"Wilaya, Tétouan",208,Peugeot,55 000 - 59 999,Excellent,2021,Oui,5,WW au Maroc,Diesel,Manuelle
+457,,Renault megane boite manuelle,"Jawhara, El Jadida",Touran,Volkswagen,70 000 - 74 999,Excellent,2020,Oui,5,WW au Maroc,Diesel,Manuelle
+458,,Peugeot 208 Diesel Manuelle 2022 à Agadir,"Av Mokawama, Agadir",Megane,Renault,100 000 - 109 999,Excellent,2019,Oui,5,WW au Maroc,Diesel,Manuelle
+459,,Cayenne Coupe-S Hybrid Sport Design(Neuve 2025),"Maarif, Casablanca",208,Peugeot,120 000 - 129 999,Excellent,2022,Oui,5,WW au Maroc,Diesel,Manuelle
+460,147 000 DH,Fiat 500L modèle 2017,"Massira, Rabat",Cayenne,Porsche,0 - 4 999,Neuf,2025,Oui,5,Importée neuve,Hybride,Automatique
+461,,range rover sport dynamique,"Oasis, Casablanca",500L,Fiat,35 000 - 39 999,Excellent,2017,Non,5,WW au Maroc,Diesel,Manuelle
+462,,Mercedes Classe C 220 D 9G-TRONIC AMG LINE,"Florida, Casablanca",Range Rover Sport,Land Rover,10 000 - 14 999,Neuf,2023,Oui,5,WW au Maroc,Diesel,Automatique
+463,385 000 DH,Volkswagen Touareg Diesel Automatique 2022,"Oulfa, Casablanca",Classe C,Mercedes-Benz,100 000 - 109 999,Excellent,2020,Oui,5,Dédouanée,Diesel,Automatique
+464,120 000 DH,ford focus model 2014,"Oulfa, Casablanca",Touareg,Volkswagen,160 000 - 169 999,Bon,2022,Non,5,WW au Maroc,Diesel,Automatique
+465,495 000 DH,Mercedes GLA 200 d 2024 - 23 000 KM Distinctive,"Californie, Casablanca",Focus,Ford,170 000 - 179 999,Bon,2014,Oui,5,WW au Maroc,Diesel,Manuelle
+466,,peugeot 208,"Hay Laymouna, Casablanca",Classe GLA,Mercedes-Benz,20 000 - 24 999,Neuf,2024,Oui,5,WW au Maroc,Diesel,Automatique
+467,,Volkswagen Caddy Diesel Automatique 2021,"Aïn Chock, Casablanca",208,Peugeot,70 000 - 74 999,Excellent,2021,Oui,5,WW au Maroc,Diesel,Manuelle
+468,,Volkswagen Caddy Diesel Automatique 2022,"Aïn Chock, Casablanca",Caddy,Volkswagen,140 000 - 149 999,,2021,Non,5,Dédouanée,Diesel,Automatique
+469,,OPEL Corsa 1.5 D Edition,"Autre secteur, Rabat",Caddy,Volkswagen,120 000 - 129 999,Excellent,2022,Non,5,Dédouanée,Diesel,Automatique
+470,,Porsche Cayenne Coupé Essence Automatique 2020,"Californie, Casablanca",Corsa,Opel,5 000 - 9 999,Excellent,2024,Oui,5,WW au Maroc,Diesel,Manuelle
+471,242 000 DH,Opel Mokka GS Line plus 1ère main 2023,"Hay Riad, Fès",Cayenne,Porsche,75 000 - 79 999,Excellent,2020,Oui,5,Importée neuve,Essence,Automatique
+472,285 000 DH,Range Rover Evoque R dynamique,"Maarif, Casablanca",Mokka,Opel,25 000 - 29 999,Excellent,2023,Oui,5,WW au Maroc,Diesel,Manuelle
+473,335 000 DH,Land Rover Range Rover Sport HSE Diesel Auto,"Oasis, Casablanca",Range Rover Evoque,Land Rover,90 000 - 94 999,Excellent,2018,,,,Diesel,Automatique
+474,139 000 DH,Clio 5 tt option,"2 Mars, Casablanca",Range Rover Sport,Land Rover,160 000 - 169 999,Très bon,2016,Oui,5,WW au Maroc,Diesel,Automatique
+475,,Renault Clio Diesel Manuelle 2021 à Safi,"Hay Essaâda, Safi",Clio,Renault,100 000 - 109 999,Très bon,2021,Non,3,WW au Maroc,Diesel,Manuelle
+476,,Rs3 facelift,"Hay El Qods, Oujda",Clio,Renault,100 000 - 109 999,Neuf,2021,Oui,5,WW au Maroc,Diesel,Manuelle
+477,,Audi RS3 Essence,"Aïn Chock, Casablanca",A3,Audi,0 - 4 999,Neuf,2025,Oui,5,Importée neuve,Essence,Automatique
+478,240 000 DH,BMW X1 Diesel Automatique 2017 à Casablanca,"Autre secteur, Casablanca",A3,Audi,0 - 4 999,Neuf,2025,,5,Importée neuve,Essence,Automatique
+479,,Mercedes-Benz Classe C Diesel Automatique 2018,"Toute la ville, Khouribga",X1,BMW,130 000 - 139 999,Bon,2017,Oui,5,WW au Maroc,Diesel,Automatique
+480,,Bentely gt continentale 2015 v8,"Bourgogne, Casablanca",Classe C,Mercedes-Benz,150 000 - 159 999,Excellent,2018,,5,Dédouanée,Diesel,Automatique
+481,,Audi Q5 Diesel Automatique 2020 à Agadir,"Av Mokawama, Agadir",Continental GT,Bentley,10 000 - 14 999,Excellent,2015,Non,3,WW au Maroc,Essence,Automatique
+482,,Mercedes-Benz Classe C 63S Coupe Cabriolet,"Quartier des Hôpitaux, Casablanca",Q5,Audi,90 000 - 94 999,Neuf,2020,Oui,5,WW au Maroc,Diesel,Automatique
+483,,citroen c3 feel plus 76k 1ére main,"Moulay Youssef, Tanger",Classe C,Mercedes-Benz,40 000 - 44 999,Excellent,2019,Oui,3,Importée neuve,Essence,Automatique
+484,,MERCEDES C220 M2014 D2019,"Zitoune, Meknès",C3,Citroen,70 000 - 74 999,Excellent,2022,Oui,5,WW au Maroc,Diesel,Manuelle
+485,118 000 DH,Renault clio diesel,"Narjis, Fès",Classe C,Mercedes-Benz,200 000 - 249 999,Excellent,2014,Non,5,Dédouanée,Diesel,Automatique
+486,,Peugeot 208 Diesel Manuelle 2025 à Rabat,"Hay Riad, Rabat",Clio,Renault,90 000 - 94 999,Excellent,2019,Non,5,WW au Maroc,Diesel,Manuelle
+487,,Range Rover Evoque,"Aïn Diab, Casablanca",208,Peugeot,0 - 4 999,Excellent,2025,Oui,5,WW au Maroc,Diesel,Manuelle
+488,,Peugeot 5008 GT-Line 7 Places - DERKAOUI AUTO,"Val Fleuri, Tanger",Range Rover Evoque,Land Rover,45 000 - 49 999,Excellent,2020,Oui,5,WW au Maroc,Diesel,Automatique
+489,,Ford Kuga Titanium Fin 2017 à Fès,"Agdal, Fès",5008,Peugeot,60 000 - 64 999,Excellent,2019,Non,5,WW au Maroc,Diesel,Automatique
+490,255 000 DH,Peugeot 3008 Diesel Automatique 2019 à Tétouan,"Wilaya, Tétouan",Kuga,Ford,130 000 - 139 999,Très bon,2017,Non,5,WW au Maroc,Diesel,Manuelle
+491,265 000 DH,master 3 pano neuf,"Sidi Bernoussi, Casablanca",3008,Peugeot,150 000 - 159 999,Excellent,2019,Oui,5,WW au Maroc,Diesel,Automatique
+492,,Skoda Octavia Diesel Automatique 2024 à Agadir,"Av Mokawama, Agadir",Master,Renault,45 000 - 49 999,Neuf,2022,Oui,5,WW au Maroc,Diesel,Manuelle
+493,,Fiat 500 Essance Automatique 2016 à Agadir,"Av Mokawama, Agadir",Octavia,Skoda,20 000 - 24 999,Neuf,2024,Oui,5,WW au Maroc,Diesel,Automatique
+494,,Land rover-Discovery sport Diesel,"Hay el Fath, Rabat",500,Fiat,100 000 - 109 999,Excellent,2016,Oui,5,WW au Maroc,Essence,Automatique
+495,,Toyota Prado Diesel Manuelle 2020 à Casablanca,"Aïn Borja, Casablanca",Prado,Toyota,200 000 - 249 999,Excellent,2020,Oui,3,WW au Maroc,Diesel,Manuelle
+496,82 000 DH,Polo r 6 esance,"2 Mars, Casablanca",Polo,Volkswagen,110 000 - 119 999,Excellent,2013,Non,5,WW au Maroc,Essence,Manuelle
+497,,Mercedes Benz CLS 300,"Aïn Diab, Casablanca",Classe CLS,Mercedes-Benz,50 000 - 54 999,Excellent,2019,Oui,5,Importée neuve,Diesel,Automatique
+498,89 000 DH,Renault Fluence Diesel Manuelle 2012 à Deroua,"Toute la ville, Deroua",Fluence,Renault,200 000 - 249 999,Très bon,2012,Non,5,WW au Maroc,Diesel,Manuelle
+499,310 000 DH,renault,"Les Orangers, Rabat",Arkana,Renault,20 000 - 24 999,Excellent,2022,Non,5,Dédouanée,Hybride,Automatique
+500,148 000 DH,Clio 4 automatique 2020 tout option,"Tilila, Agadir",Clio,Renault,130 000 - 139 999,Très bon,2020,Non,5,WW au Maroc,Diesel,Automatique
+501,450 000 DH,Bmw serie 318d 3.000km,"Californie, Casablanca",Série 3,BMW,0 - 4 999,Excellent,2024,Oui,5,WW au Maroc,Diesel,Automatique
+502,150 000 DH,Mini One Diesel première main 2016 à Mohammedia,"Autre secteur, Mohammedia",One,Mini,60 000 - 64 999,Excellent,2016,Oui,3,WW au Maroc,Diesel,Manuelle
+503,510 000 DH,Mercedes-Benz Classe C200 Essence Automatique 2023,"Guéliz, Marrakech",Classe C,Mercedes-Benz,40 000 - 44 999,Excellent,2023,,5,Dédouanée,Essence,Automatique
+504,118 000 DH,Dacia dokker modèle 2019,"Massira 3, Marrakech",Dokker,Dacia,140 000 - 149 999,Excellent,2019,Non,5,WW au Maroc,Diesel,Manuelle
+505,62 000 DH,Peugeot Partner Diesel Manuelle 2008 à Tanger,"Tanger City Center, Tanger",Partner,Peugeot,300 000 - 349 999,Très bon,2008,Non,5,WW au Maroc,Diesel,Manuelle
+506,62 000 DH,لوكان البيع 2007عامرة,"Sidi Moumen, Casablanca",Logan,Dacia,0 - 4 999,Excellent,2007,Non,5,WW au Maroc,Diesel,Manuelle
+507,109 000 DH,opel corsa,"Biyada, Safi",Corsa,Opel,10 000 - 14 999,Très bon,2016,Non,5,Dédouanée,Diesel,Manuelle
+508,,MERCEDES CLASSE V220,"Bourgogne, Casablanca",Classe V,Mercedes-Benz,75 000 - 79 999,Excellent,2017,Oui,5,WW au Maroc,Diesel,Automatique
+509,,Mercedes-Benz Classe CLA Diesel Automatique 2017,"Av Mokawama, Agadir",Classe CLA,Mercedes-Benz,100 000 - 109 999,Excellent,2017,Oui,5,WW au Maroc,Diesel,Automatique
+510,,Audi A4 Diesel Automatique 2022 à Agadir,"Av Mokawama, Agadir",A4,Audi,90 000 - 94 999,Neuf,2022,Oui,5,WW au Maroc,Diesel,Automatique
+511,,Volkswagen Vento Diesel Manuelle 1994 à Tétouan,"Centre ville, Tétouan",Vento,Volkswagen,150 000 - 159 999,Bon,1994,Non,5,Dédouanée,Diesel,Manuelle
+512,120 000 DH,CLIO DIESEL,"Hay Ouifak, Fès",Clio,Renault,120 000 - 129 999,Très bon,2019,Non,5,WW au Maroc,Diesel,Manuelle
+513,220 000 DH,Toyota Corolla Hybride Automatique 2021 à Tanger,"Mesnana, Tanger",Logan,Dacia,100 000 - 109 999,Excellent,2021,Oui,5,WW au Maroc,Diesel,Manuelle
+514,41 000 DH,renault megane,"Zone Industrielle Agadir, Agadir",Corolla,Toyota,40 000 - 44 999,Très bon,2021,Oui,5,WW au Maroc,Hybride,Automatique
+515,380 000 DH,golf 8 gtd,"Agdal, Fès",Megane,Renault,200 000 - 249 999,Bon,2003,Non,5,Dédouanée,Diesel,Manuelle
+516,95 000 DH,Toyota Corolla 2013,"Toute la ville, Laâyoune",Golf 8,Volkswagen,95 000 - 99 999,Excellent,2021,Oui,5,Dédouanée,Diesel,Automatique
+517,275 000 DH,Mercedes C220,"Californie, Casablanca",Corolla,Toyota,160 000 - 169 999,Très bon,2013,Non,5,Dédouanée,Essence,Manuelle
+518,,Toyota Hilux Diesel Manuelle 2021 à Casablanca,"Aïn Borja, Casablanca",Classe C,Mercedes-Benz,160 000 - 169 999,Excellent,2017,Non,5,WW au Maroc,Diesel,Automatique
+519,,Fiat fiorino,"Aïn Chock, Casablanca",Hilux,Toyota,65 000 - 69 999,Excellent,2021,,5,WW au Maroc,Diesel,Manuelle
+520,,Audi A6 diesel automatique 2021,"Av Mokawama, Agadir",Fiorino,Fiat,95 000 - 99 999,Excellent,2021,,,WW au Maroc,Diesel,Automatique
+521,,Volvo S80 D5 AWD,"Autre secteur, Kénitra",A6,Audi,70 000 - 74 999,Neuf,2021,Non,5,WW au Maroc,Diesel,Automatique
+522,47 000 DH,Volkswagen Polo Diesel Manuelle 2002 à Tétouan,"Route de Ceuta, Tétouan",S80,Volvo,200 000 - 249 999,Excellent,2011,,,WW au Maroc,Diesel,Automatique
+523,,Seat Ateca Diesel Manuelle 2020 à Marrakech,"Afaq, Marrakech",Polo,Volkswagen,400 000 - 449 999,Bon,2002,,,,Diesel,Manuelle
+524,,Dacia logan 5/2024,"Toute la ville, Ribat el Kheir",Ateca,Seat,160 000 - 169 999,Excellent,2020,Oui,5,Dédouanée,Diesel,Manuelle
+525,,golf 7.5 gtd,"Autre secteur, Marrakech",Logan,Dacia,10 000 - 14 999,Neuf,2024,Oui,5,WW au Maroc,Electrique,Manuelle
+526,108 000 DH,Citroen C3 Diesel 2018 clima,"Ain Sebaa, Casablanca",Golf 7,Volkswagen,140 000 - 149 999,Neuf,2018,,,Dédouanée,Diesel,Automatique
+527,,Hyundai Tucson Diesel Automatique 2023 à Agadir,"Abattoirs, Agadir",KUV 100,Mahindra,30 000 - 34 999,Excellent,2022,Oui,5,WW au Maroc,Diesel,Manuelle
+528,,Range rover évoque bébé Vilar,"Hay el Fath, Rabat",C3,Citroen,140 000 - 149 999,Excellent,2018,Non,5,WW au Maroc,Diesel,Manuelle
+529,,Seat Ateca Diesel Automatique 2017 à Marrakech,"Massira 1, Marrakech",Tucson,Hyundai,40 000 - 44 999,Neuf,2023,Oui,5,WW au Maroc,Diesel,Automatique
+530,,Skoda Karoq 2020 dédouanée 2025,"Toute la ville, Settat",Range Rover Evoque,Land Rover,70 000 - 74 999,Excellent,2021,Oui,5,WW au Maroc,Diesel,Automatique
+531,135 000 DH,Dacia dokker diesel,"Massira, Rabat",Ateca,Seat,110 000 - 119 999,Excellent,2017,Oui,5,WW au Maroc,Diesel,Automatique
+532,,Mercedes Benz class A 200d automatique 2022,"Av Mokawama, Agadir",Karoq,Skoda,190 000 - 199 999,Excellent,2020,,5,Dédouanée,Diesel,Automatique
+533,,Peugeot 308,"Almaz, Casablanca",Dokker,Dacia,70 000 - 74 999,Très bon,2018,Non,5,WW au Maroc,Diesel,Manuelle
+534,,VOLKSWAGEN GOLF 7 M2015,"Zerhounia, Meknès",Classe A,Mercedes-Benz,110 000 - 119 999,Excellent,2022,Oui,5,WW au Maroc,Diesel,Automatique
+535,249 000 DH,Volkswagen Passat Diesel Automatique 2020 à Rabat,"Agdal, Rabat",308,Peugeot,200 000 - 249 999,Très bon,2012,Non,5,,Diesel,Manuelle
+536,,Mercedes-Benz Classe A200 Diesel Automatique 2020,"Aïn Chock, Casablanca",Golf 7,Volkswagen,250 000 - 299 999,Très bon,2015,Non,5,WW au Maroc,Diesel,Manuelle
+537,,Land Rover Range Rover Vogue Diesel Automatique,"Californie, Casablanca",Passat,Volkswagen,85 000 - 89 999,Très bon,2020,Oui,5,WW au Maroc,Diesel,Automatique
+538,,RANGE ROVER ÉVOQUÉ DYNAMIQUE M2012,"Zerhounia, Meknès",Classe A,Mercedes-Benz,140 000 - 149 999,Excellent,2020,,,Dédouanée,Diesel,Automatique
+539,,Fiat 500 Essence Automatique 2022 à Marrakech,"Hay Targa, Marrakech",Range Rover Vogue,Land Rover,110 000 - 119 999,Excellent,2019,Oui,5,WW au Maroc,Diesel,Automatique
+540,110 000 DH,CHERY TIGGO 2 PRO,"Route d'Azemmour, Casablanca",Range Rover Evoque,Land Rover,250 000 - 299 999,Excellent,2012,Non,5,WW au Maroc,Diesel,Automatique
+541,62 000 DH,Peugeot Partner Diesel Manuelle 2008 à Tanger,"Tanger City Center, Tanger",500,Fiat,80 000 - 84 999,Excellent,2022,Oui,3,WW au Maroc,Essence,Automatique
+542,290 000 DH,Mercedes-Benz 220 Diesel Automatique 2017 à Rabat,"Agdal, Rabat",Tiggo,Chery,10 000 - 14 999,Excellent,2023,,5,WW au Maroc,Essence,Manuelle
+543,705 000 DH,Mitsubishi,"Bourj Moulay Omar, Meknès",Partner,Peugeot,300 000 - 349 999,Très bon,2008,Non,5,WW au Maroc,Diesel,Manuelle
+544,,Mercedes c200 d,"2 Mars, Casablanca",220,Mercedes-Benz,160 000 - 169 999,Excellent,2017,Non,5,WW au Maroc,Diesel,Automatique
+545,210 000 DH,opel mokka,"Aïn Chock, Casablanca",K01h,DFSK,15 000 - 19 999,Excellent,2020,Oui,3,WW au Maroc,Essence,Manuelle
+546,,VOLKSWAGEN TIGUAN M2017/12 D2022,"Zerhounia, Meknès",L200,Mitsubishi,130 000 - 139 999,Bon,2008,Oui,,WW au Maroc,Diesel,Manuelle
+547,,Audi A 5 coupé 2022 S Line,"Bourgogne, Casablanca",Classe C,Mercedes-Benz,100 000 - 109 999,Excellent,2019,Oui,5,WW au Maroc,Diesel,Automatique
+548,155 000 DH,Peugeot 308 Diesel Automatique 2020 à Mohammedia,"Amal, Mohammedia",Mokka,Opel,30 000 - 34 999,Excellent,2022,Oui,5,WW au Maroc,Diesel,Manuelle
+549,132 000 DH,Volkswagen Golf 6 dédouanée,"Centre Ville, Casablanca",Tiguan,Volkswagen,190 000 - 199 999,Excellent,2017,Non,5,Dédouanée,Diesel,Manuelle
+550,,Mercedes-Benz Classe C Diesel,"Californie, Casablanca",A5,Audi,25 000 - 29 999,Excellent,2022,Oui,3,WW au Maroc,Diesel,Automatique
+551,395 000 DH,seat tarraco,"Autre secteur, Casablanca",308,Peugeot,170 000 - 179 999,Très bon,2020,Non,5,WW au Maroc,Diesel,Automatique
+552,760 000 DH,bmw x5,"Almaz, Casablanca",Golf 6,Volkswagen,200 000 - 249 999,Très bon,2013,Oui,5,Dédouanée,Diesel,Manuelle
+553,850 000 DH,AUDI Q8 SLINE,"Maarif, Casablanca",Classe C,Mercedes-Benz,100 000 - 109 999,Excellent,2020,Oui,5,Dédouanée,Diesel,Automatique
+554,135 000 DH,dacia dokker,"Autre secteur, Casablanca",Tarraco,Seat,60 000 - 64 999,Excellent,2023,Oui,5,WW au Maroc,Diesel,Automatique
+555,128 000 DH,Renault Clio 4 Intense,"Agdal, Fès",X5,BMW,45 000 - 49 999,Excellent,2022,Oui,5,WW au Maroc,Hybride,Automatique
+556,,Nissan juke 2016,"Ain Sebaa, Casablanca",Q8,Audi,90 000 - 94 999,Excellent,2021,,,,Diesel,Automatique
+557,145 000 DH,DFSK glory 500 neuve,"Ennasr, Tanger",Dokker,Dacia,110 000 - 119 999,Très bon,2019,Non,5,WW au Maroc,Diesel,Manuelle
+558,,Audi Q5 Automatique Prestige,"Hay el Fath, Rabat",Clio,Renault,95 000 - 99 999,Excellent,2017,Non,5,WW au Maroc,Diesel,Manuelle
+559,310 000 DH,Peugeot 3008 Diesel Automatique 2022 à Casablanca,"2 Mars, Casablanca",Juke,Nissan,120 000 - 129 999,Très bon,2016,Oui,5,WW au Maroc,Diesel,Manuelle
+560,,Dacia Lodgy Diesel Manuelle 2021 à Agadir,"Hay Zaytoun, Agadir",Glory 500,DFSK,5 000 - 9 999,Excellent,2023,Oui,5,,Essence,Automatique
+561,,Fiat 500 automatique 2023,"Av Mokawama, Agadir",Qashqai,Nissan,170 000 - 179 999,Bon,2017,Oui,5,,Diesel,Manuelle
+562,225 000 DH,Hyundai Tucson Diesel Automatique 2018 à Rabat,"Yacoub El Mansour, Rabat",Q5,Audi,130 000 - 139 999,Excellent,2011,Non,5,WW au Maroc,Diesel,Automatique
+563,,Audi Q7 Diesel Automatique 2017 à Agadir,"Av Mokawama, Agadir",3008,Peugeot,60 000 - 64 999,Excellent,2022,Oui,5,WW au Maroc,Diesel,Automatique
+564,,Dacia Duster tout option,"Hay Riad, Rabat",Lodgy,Dacia,90 000 - 94 999,Excellent,2021,Oui,5,WW au Maroc,Diesel,Manuelle
+565,,Nissan Qashqai Diesel Automatique 2021 à Salé,"Sala El Jadida, Salé",500,Fiat,55 000 - 59 999,Neuf,2023,Oui,5,WW au Maroc,Essence,Automatique
+566,62 000 DH,Mercedes-Benz 250 Diesel Automatique 1991,"Route de Casablanca, Marrakech",Tucson,Hyundai,250 000 - 299 999,Très bon,2018,Oui,5,WW au Maroc,Diesel,Automatique
+567,30 000 DH,Honda Civic Essence Manuelle 1994 à Settat,"Toute la ville, Settat",Q7,Audi,160 000 - 169 999,Excellent,2017,Oui,5,WW au Maroc,Diesel,Automatique
+568,305 000 DH,Mercedes-Benz Classe C Diesel Automatique 2016,"Hay el Fath, Rabat",Duster,Dacia,55 000 - 59 999,Excellent,2021,Oui,5,WW au Maroc,Diesel,Automatique
+569,31 000 DH,fiat sienna,"Centre Ville, Oujda",Qashqai,Nissan,80 000 - 84 999,Excellent,2021,Oui,3,WW au Maroc,Diesel,Automatique
+570,390 000 DH,golf 8 gtd 200 chv,"Narjis, Fès",250,Mercedes-Benz,170 000 - 179 999,Très bon,1991,Oui,5,Dédouanée,Diesel,Automatique
+571,,Volkswagen Tiguan automatique 2019,"Av Mokawama, Agadir",Civic,Honda,300 000 - 349 999,Bon,1994,Non,5,WW au Maroc,Essence,Manuelle
+572,180 000 DH,OPEL CORSA Essence Automatique 2023,"Autre secteur, Casablanca",Classe C,Mercedes-Benz,140 000 - 149 999,Très bon,2016,Non,5,Dédouanée,Diesel,Automatique
+573,,passât en très bon état,"Aïn Chock, Casablanca",Siena,Fiat,200 000 - 249 999,Excellent,2000,Non,5,WW au Maroc,Essence,Manuelle
+574,170 000 DH,golf 7,"Toute la ville, Dakhla",Golf 8,Volkswagen,30 000 - 34 999,Très bon,2021,Non,5,Importée neuve,Diesel,Automatique
+575,23 000 DH,190 mercedess,"Bab Fès, Kénitra",Tiguan,Volkswagen,140 000 - 149 999,Excellent,2019,Oui,5,WW au Maroc,Diesel,Automatique
+576,,camion frigo,"Hay Izdihar, Marrakech",Corsa,Opel,35 000 - 39 999,Bon,2023,Oui,5,WW au Maroc,Essence,Automatique
+577,,volvo,"Amicales, Agadir",Passat,Volkswagen,40 000 - 44 999,Excellent,2021,Oui,,WW au Maroc,Diesel,Automatique
+578,,Mercedes Classe V300d VIP Business Classe,"Route de Casablanca, Marrakech",Golf 7,Volkswagen,5 000 - 9 999,Excellent,2018,Non,5,WW au Maroc,Diesel,Manuelle
+579,,Bmw serei 520 d automatique,"Autre secteur, Tanger",190,Mercedes-Benz,0 - 4 999,Bon,1987,Non,5,Dédouanée,Diesel,Manuelle
+580,,Mercedes GLC Coupe 300de,"Route de Casablanca, Marrakech",Transit,Ford,190 000 - 199 999,Très bon,2020,Oui,3,WW au Maroc,Diesel,Manuelle
+581,200 000 DH,mercedes-benz classe a,"Autre secteur, Casablanca",XC90,Volvo,60 000 - 64 999,Excellent,2017,Oui,5,WW au Maroc,Diesel,Automatique
+582,,Volkswagen Touareg Diesel Automatique 2022,"Oulfa, Casablanca",Classe V,Mercedes-Benz,0 - 4 999,Neuf,2024,Oui,5,Importée neuve,Diesel,Automatique
+583,280 000 DH,toyota corolla,"Aïn Chock, Casablanca",Série 5,BMW,160 000 - 169 999,Très bon,2015,Non,5,WW au Maroc,Diesel,Automatique
+584,150 000 DH,KIFAL - DACIA Duster,"Autre secteur, Agadir",Classe GLC,Mercedes-Benz,0 - 4 999,Neuf,2025,Oui,5,WW au Maroc,Hybride,Automatique
+585,162 000 DH,renault express,"Aïn Chock, Casablanca",Classe A,Mercedes-Benz,100 000 - 109 999,Très bon,2016,Non,5,WW au Maroc,Diesel,Automatique
+586,,Volkswagen Tiguan R line Diesel,"Aïn Chock, Casablanca",Touareg,Volkswagen,40 000 - 44 999,Excellent,2022,Oui,5,WW au Maroc,Diesel,Automatique
+587,200 000 DH,BMW Série 316 Diesel,"Hay Hassani, Casablanca",Corolla,Toyota,15 000 - 19 999,Excellent,2024,Oui,5,WW au Maroc,Hybride,Automatique
+588,,Peugeot Diesel toutes options Modèle 2022,"Aïn Borja, Casablanca",Duster,Dacia,150 000 - 159 999,,2020,,,,Diesel,Manuelle
+589,,Mercedes Classe A220d,"Route de Casablanca, Marrakech",Express,Renault,10 000 - 14 999,Excellent,2024,Non,5,WW au Maroc,Diesel,Manuelle
+590,97 000 DH,OPEL ZAFIRA 1.7,"Toute la ville, Khénifra",Tiguan,Volkswagen,150 000 - 159 999,Excellent,2021,Oui,5,Dédouanée,Diesel,Automatique
+591,145 000 DH,clio 5 2022,"Route de Sefrou, Fès",Série 3,BMW,190 000 - 199 999,Très bon,2014,Non,5,WW au Maroc,Diesel,Automatique
+592,,Lamborghini Huracan Evo V10,"Route de Casablanca, Marrakech",2008,Peugeot,85 000 - 89 999,Excellent,2022,Oui,5,WW au Maroc,Diesel,Automatique
+593,115 000 DH,Blw série 1,"2 Mars, Casablanca",Classe A,Mercedes-Benz,0 - 4 999,Excellent,2025,Oui,5,Importée neuve,Diesel,Automatique
+594,,Ford Kouga finition ST Line Automatique 2020,"Aïn Borja, Casablanca",Zafira,Opel,250 000 - 299 999,Très bon,2008,Non,5,WW au Maroc,Diesel,Manuelle
+595,,Dacia l3amra la carte,"Autre secteur, Agadir",Clio,Renault,75 000 - 79 999,Excellent,2022,Oui,5,WW au Maroc,Diesel,Manuelle
+596,,Citroën Berlingo,"Boustane, Oujda",Huracan,Lamborghini,0 - 4 999,Excellent,2022,Oui,5,Importée neuve,Essence,Automatique
+597,119 000 DH,Fiat 500 Essence Automatique 2019 à Rabat,"Autre secteur, Rabat",Série 1,BMW,200 000 - 249 999,Très bon,2012,Non,5,WW au Maroc,Diesel,Manuelle
+598,,Volkswagen Tiguan R-line 2020 dedouané 2024,"Toute la ville, Béni Mellal",Kuga,Ford,100 000 - 109 999,Excellent,2020,Non,5,WW au Maroc,Diesel,Automatique
+599,270 000 DH,BMW Série 1 Diesel Automatique 2020 à Casablanca,"Californie, Casablanca",Logan,Dacia,80 000 - 84 999,Excellent,2022,Oui,5,WW au Maroc,Diesel,Manuelle
+600,172 000 DH,Citroen C3 AIRCROSS 2022 à Tanger,"Val Fleuri, Tanger",Berlingo,Citroen,110 000 - 119 999,Excellent,2020,Non,5,WW au Maroc,Diesel,Manuelle
+601,135 000 DH,volvo xc60 D4,"Sidi Maarouf, Casablanca",500,Fiat,80 000 - 84 999,Excellent,2019,Oui,3,WW au Maroc,Essence,Automatique
+602,,"Volkswagen Golf 8,5 R-LINE (Importée Neuve) 2025","Anfa, Casablanca",Tiguan,Volkswagen,130 000 - 139 999,Excellent,2020,Oui,5,Dédouanée,Diesel,Automatique
+603,98 000 DH,Citroën C-Elysée Essence 6ch Manuelle 2020,"Ain Sebaa, Casablanca",Série 1,BMW,110 000 - 119 999,Excellent,2020,Non,5,WW au Maroc,Diesel,Automatique
+604,155 000 DH,renault express,"Oulfa, Casablanca",C3,Citroen,60 000 - 64 999,Excellent,2022,Oui,5,WW au Maroc,Diesel,Manuelle
+605,,Mercedes-Benz GLC 300DE Coupé (Importée Neuve),"Anfa, Casablanca",XC60,Volvo,200 000 - 249 999,Très bon,2012,Oui,5,WW au Maroc,Diesel,Automatique
+606,,Renault clio 5 intense 2023,"Autre secteur, Fès",Golf 8,Volkswagen,0 - 4 999,Excellent,2025,,5,Importée neuve,Diesel,Automatique
+607,,Peugeot 3008 Diesel Manuelle 2016 à Rabat,"Autre secteur, Rabat",C-Elysée,Citroen,110 000 - 119 999,Excellent,2020,Oui,5,WW au Maroc,Essence,Manuelle
+608,240 000 DH,AUDI Q5 Diesel Automatique 2016 à Casablanca,"Autre secteur, Casablanca",Express,Renault,35 000 - 39 999,Excellent,2023,Non,3,WW au Maroc,Diesel,Manuelle
+609,93 000 DH,Dodge Essence,"Guich Oudaya, Rabat",Classe GLC,Mercedes-Benz,0 - 4 999,Neuf,2025,,,Importée neuve,Hybride,Automatique
+610,,Bentayga hybride S Facelift importé neuf,"Hay El Qods, Oujda",Clio,Renault,60 000 - 64 999,Neuf,2023,Oui,5,WW au Maroc,Diesel,Manuelle
+611,168 000 DH,volkswagen passat cc,"Autre secteur, Casablanca",3008,Peugeot,160 000 - 169 999,Excellent,2016,Oui,5,Dédouanée,Diesel,Manuelle
+612,,Audi Q8 Sline Exclusive 2024 13000 km,"Riviera, Casablanca",Q5,Audi,140 000 - 149 999,Bon,2016,Non,5,WW au Maroc,Diesel,Automatique
+613,147 000 DH,Fiat Tipo Essence Automatique 2023 à Casablanca,"Anfa, Casablanca",Avenger,Dodge,160 000 - 169 999,Neuf,2014,Oui,5,Dédouanée,Essence,Automatique
+614,,Dacia Duster,"Centre ville, Tétouan",Bentayga,Bentley,0 - 4 999,Neuf,2025,Oui,5,Importée neuve,Hybride,Automatique
+615,,Mercedes classe C220 pack AMG line plus,"Oasis, Casablanca",Passat CC,Volkswagen,120 000 - 129 999,Excellent,2016,Non,5,WW au Maroc,Diesel,Manuelle
+616,,Touran SOUND Diesel Auto pano,"Aïn Chock, Casablanca",Q8,Audi,10 000 - 14 999,Neuf,2024,Oui,5,Importée neuve,Diesel,Automatique
+617,,opel corsa,"Autre secteur, Fès",Tipo,Fiat,20 000 - 24 999,Excellent,2023,Oui,5,WW au Maroc,Essence,Automatique
+618,770 000 DH,Audi Q8 black édition,"Les Cretes, Mohammedia",Duster,Dacia,80 000 - 84 999,Excellent,2019,Oui,5,WW au Maroc,Diesel,Manuelle
+619,189 000 DH,Ford Focus,"Marjane 2, Meknès",Classe C,Mercedes-Benz,10 000 - 14 999,Neuf,2021,Oui,5,Importée neuve,Diesel,Automatique
+620,75 000 DH,Ford ranger 4x4 Climatisée,"Azli, Marrakech",Touran,Volkswagen,180 000 - 189 999,Excellent,2018,Oui,5,Dédouanée,Diesel,Automatique
+621,,mercedes benz A180 AMG,"Aïn Chock, Casablanca",Corsa,Opel,50 000 - 54 999,Neuf,2023,Non,5,WW au Maroc,Diesel,Manuelle
+622,118 000 DH,fiat 500,"Centre Ville, Casablanca",Q8,Audi,120 000 - 129 999,Excellent,2019,Non,5,Importée neuve,Diesel,Automatique
+623,150 000 DH,NISSAN PATHFINDER 2012 REPRISE OK,"Les Orangers, Rabat",Focus,Ford,90 000 - 94 999,Excellent,2021,Non,5,WW au Maroc,Diesel,Manuelle
+624,310 000 DH,Volkswagen Golf8,"Agdal, Fès",Ranger,Ford,300 000 - 349 999,Très bon,2006,Non,5,WW au Maroc,Diesel,Manuelle
+625,,Mercedes-Benz Classe C amg line plus,"Centre Ville, Casablanca",Classe A,Mercedes-Benz,55 000 - 59 999,Excellent,2019,,,Dédouanée,Diesel,Automatique
+626,340 000 DH,BMW Série 3 Sport 2020,"Route Ain Chkaf, Fès",500,Fiat,65 000 - 69 999,Excellent,2019,Non,3,WW au Maroc,Essence,Automatique
+627,,porsche Cayenne 3.0d,"Oasis, Casablanca",Pathfinder,Nissan,200 000 - 249 999,Excellent,2012,Non,5,WW au Maroc,Diesel,Manuelle
+628,157 000 DH,Hyundai i10 1.0 MPI Seductive,"Ain Sebaa, Casablanca",Octavia,Skoda,110 000 - 119 999,Excellent,2017,Non,5,WW au Maroc,Diesel,Manuelle
+629,,GOLF 8 GTD Modèle 2024 full option,"Route Ain Chkaf, Fès",Golf 8,Volkswagen,60 000 - 64 999,Très bon,2023,Oui,,WW au Maroc,Diesel,Automatique
+630,,jeep Renegade,"Hay Riad, Rabat",Classe C,Mercedes-Benz,55 000 - 59 999,Excellent,2022,Non,5,Importée neuve,Diesel,Automatique
+631,139 000 DH,Hyundai i20 Essence Automatique 2019 à Casablanca,"Sidi Bernoussi, Casablanca",Série 3,BMW,90 000 - 94 999,Excellent,2020,,5,WW au Maroc,Diesel,Automatique
+632,180 000 DH,Opel corsa fin 2024 neuf,"Aïn Chock, Casablanca",Cayenne,Porsche,95 000 - 99 999,Excellent,2015,Oui,5,Importée neuve,Diesel,Automatique
+633,190 000 DH,Jepp grand cherokee overland full option,"Targa, Marrakech",i10,Hyundai,15 000 - 19 999,Bon,2024,Oui,5,WW au Maroc,Essence,Automatique
+634,128 000 DH,Fourd focus sport 1premain,"2 Mars, Casablanca",Golf 8,Volkswagen,5 000 - 9 999,Neuf,2024,Oui,5,Importée neuve,Diesel,Automatique
+635,143 000 DH,Peugeot 208 diesel,"Narjis, Fès",Renegade,Jeep,110 000 - 119 999,Excellent,2018,,5,WW au Maroc,Diesel,Automatique
+636,,Mitsubishi Pajero Diesel Automatique 2010,"2 Mars, Casablanca",i20,Hyundai,10 000 - 14 999,Très bon,2019,Non,5,WW au Maroc,Essence,Automatique
+637,,Land Rover Range Rover Vogue Diesel Automatique,"Agdal, Rabat",Corsa,Opel,15 000 - 19 999,Neuf,2024,Oui,5,WW au Maroc,Diesel,Manuelle
+638,750 000 DH,Porsche Panamera,"Maarif, Casablanca",Grand Cherokee,Jeep,190 000 - 199 999,Excellent,2018,Oui,5,WW au Maroc,Diesel,Automatique
+639,,Audi Q8 Diesel Automatique 2025 à Casablanca,"Aïn Chock, Casablanca",Focus,Ford,140 000 - 149 999,Très bon,2014,Oui,5,WW au Maroc,Diesel,Manuelle
+640,295 000 DH,Land Rover Range Rover Sport Diesel Automatique,"Autre secteur, Casablanca",208,Peugeot,80 000 - 84 999,Excellent,2021,Oui,5,WW au Maroc,Diesel,Manuelle
+641,580 000 DH,Range sport 2019,"Les Cretes, Mohammedia",Pajero,Mitsubishi,300 000 - 349 999,Très bon,2010,Non,5,,Diesel,Automatique
+642,450 000 DH,Mercedes-Benz Classe CLA Diesel,"Maarif, Casablanca",Range Rover Vogue,Land Rover,180 000 - 189 999,Excellent,2016,Oui,5,Importée neuve,Diesel,Automatique
+643,165 000 DH,Renault Clio Diesel Manuelle 2022 à Fès,"Narjis, Fès",Panamera,Porsche,100 000 - 109 999,Excellent,2019,,,Importée neuve,Hybride,Automatique
+644,175 000 DH,Duster automatique Diesel,"Targa, Marrakech",Q8,Audi,0 - 4 999,Neuf,2025,,5,Importée neuve,Diesel,Automatique
+645,,Audi Q3 sportback pack S line 2022,"Aïn Chock, Casablanca",Range Rover Sport,Land Rover,150 000 - 159 999,Bon,2014,Non,5,WW au Maroc,Diesel,Automatique
+646,,Nissan Qashqai acenta plus manuel 2019 à Salé,"Sala El Jadida, Salé",Range Rover Sport,Land Rover,90 000 - 94 999,Excellent,2019,Non,5,Importée neuve,Diesel,Automatique
+647,175 000 DH,Hyundai Accent 1.5 Attractive,"Ain Sebaa, Casablanca",Classe CLA,Mercedes-Benz,70 000 - 74 999,Excellent,2022,Oui,5,WW au Maroc,Diesel,Automatique
+648,,bentley Azure cabriolet,"Oasis, Casablanca",Clio,Renault,50 000 - 54 999,Excellent,2022,Oui,5,WW au Maroc,Diesel,Manuelle
+649,,Bmw x5 pack M 2022,"Belvédère, Casablanca",Duster,Dacia,70 000 - 74 999,Excellent,2020,Non,5,WW au Maroc,Diesel,Automatique
+650,326 000 DH,Peugeot 3008 2.0 GT line,"Ain Sebaa, Casablanca",Q3,Audi,160 000 - 169 999,Excellent,2022,,,Dédouanée,Diesel,Automatique
+651,148 000 DH,PEUGEOT 208 (Active Pack) 06/2022 à Tanger,"Drissia, Tanger",Qashqai,Nissan,90 000 - 94 999,Excellent,2019,Oui,3,WW au Maroc,Diesel,Automatique
+652,450 000 DH,Range Rover sport black édition,"Les Cretes, Mohammedia",Accent,Hyundai,35 000 - 39 999,Très bon,2024,Oui,5,WW au Maroc,Essence,Automatique
+653,,Mercedes-Benz AMG GLC Coupe Diesel Automatique,"2 Mars, Casablanca",Azure,Bentley,0 - 4 999,Excellent,1998,Oui,3,Dédouanée,Essence,Automatique
+654,,jeep Renegade,"Hay Riad, Rabat",X5,BMW,90 000 - 94 999,Excellent,2022,Oui,5,WW au Maroc,Diesel,Automatique
+655,139 000 DH,Hyundai i20 Essence Automatique 2019 à Casablanca,"Sidi Bernoussi, Casablanca",3008,Peugeot,60 000 - 64 999,Très bon,2021,Oui,5,WW au Maroc,Diesel,Automatique
+656,180 000 DH,Opel corsa fin 2024 neuf,"Aïn Chock, Casablanca",208,Peugeot,65 000 - 69 999,Excellent,2022,Oui,5,WW au Maroc,Diesel,Manuelle
+657,190 000 DH,Jepp grand cherokee overland full option,"Targa, Marrakech",Range Rover Sport,Land Rover,110 000 - 119 999,Excellent,2019,Oui,5,WW au Maroc,Diesel,Automatique
+658,128 000 DH,Fourd focus sport 1premain,"2 Mars, Casablanca",Classe GLC,Mercedes-Benz,150 000 - 159 999,Excellent,2016,Non,5,Dédouanée,Diesel,Automatique
+659,143 000 DH,Peugeot 208 diesel,"Narjis, Fès",Renegade,Jeep,110 000 - 119 999,Excellent,2018,,5,WW au Maroc,Diesel,Automatique
+660,,Mitsubishi Pajero Diesel Automatique 2010,"2 Mars, Casablanca",i20,Hyundai,10 000 - 14 999,Très bon,2019,Non,5,WW au Maroc,Essence,Automatique
+661,,Land Rover Range Rover Vogue Diesel Automatique,"Agdal, Rabat",Corsa,Opel,15 000 - 19 999,Neuf,2024,Oui,5,WW au Maroc,Diesel,Manuelle
+662,750 000 DH,Porsche Panamera,"Maarif, Casablanca",Grand Cherokee,Jeep,190 000 - 199 999,Excellent,2018,Oui,5,WW au Maroc,Diesel,Automatique
+663,,Audi Q8 Diesel Automatique 2025 à Casablanca,"Aïn Chock, Casablanca",Focus,Ford,140 000 - 149 999,Très bon,2014,Oui,5,WW au Maroc,Diesel,Manuelle
+664,295 000 DH,Land Rover Range Rover Sport Diesel Automatique,"Autre secteur, Casablanca",208,Peugeot,80 000 - 84 999,Excellent,2021,Oui,5,WW au Maroc,Diesel,Manuelle
+665,580 000 DH,Range sport 2019,"Les Cretes, Mohammedia",Pajero,Mitsubishi,300 000 - 349 999,Très bon,2010,Non,5,,Diesel,Automatique
+666,450 000 DH,Mercedes-Benz Classe CLA Diesel,"Maarif, Casablanca",Range Rover Vogue,Land Rover,180 000 - 189 999,Excellent,2016,Oui,5,Importée neuve,Diesel,Automatique
+667,165 000 DH,Renault Clio Diesel Manuelle 2022 à Fès,"Narjis, Fès",Panamera,Porsche,100 000 - 109 999,Excellent,2019,,,Importée neuve,Hybride,Automatique
+668,175 000 DH,Duster automatique Diesel,"Targa, Marrakech",Q8,Audi,0 - 4 999,Neuf,2025,,5,Importée neuve,Diesel,Automatique
+669,,Audi Q3 sportback pack S line 2022,"Aïn Chock, Casablanca",Range Rover Sport,Land Rover,150 000 - 159 999,Bon,2014,Non,5,WW au Maroc,Diesel,Automatique
+670,,Nissan Qashqai acenta plus manuel 2019 à Salé,"Sala El Jadida, Salé",Range Rover Sport,Land Rover,90 000 - 94 999,Excellent,2019,Non,5,Importée neuve,Diesel,Automatique
+671,175 000 DH,Hyundai Accent 1.5 Attractive,"Ain Sebaa, Casablanca",Classe CLA,Mercedes-Benz,70 000 - 74 999,Excellent,2022,Oui,5,WW au Maroc,Diesel,Automatique
+672,,bentley Azure cabriolet,"Oasis, Casablanca",Clio,Renault,50 000 - 54 999,Excellent,2022,Oui,5,WW au Maroc,Diesel,Manuelle
+673,,Bmw x5 pack M 2022,"Belvédère, Casablanca",Duster,Dacia,70 000 - 74 999,Excellent,2020,Non,5,WW au Maroc,Diesel,Automatique
+674,326 000 DH,Peugeot 3008 2.0 GT line,"Ain Sebaa, Casablanca",Q3,Audi,160 000 - 169 999,Excellent,2022,,,Dédouanée,Diesel,Automatique
+675,148 000 DH,PEUGEOT 208 (Active Pack) 06/2022 à Tanger,"Drissia, Tanger",Qashqai,Nissan,90 000 - 94 999,Excellent,2019,Oui,3,WW au Maroc,Diesel,Automatique
+676,450 000 DH,Range Rover sport black édition,"Les Cretes, Mohammedia",Accent,Hyundai,35 000 - 39 999,Très bon,2024,Oui,5,WW au Maroc,Essence,Automatique
+677,,Mercedes-Benz AMG GLC Coupe Diesel Automatique,"2 Mars, Casablanca",Azure,Bentley,0 - 4 999,Excellent,1998,Oui,3,Dédouanée,Essence,Automatique
+678,145 000 DH,clio diesel l'intense automatique 1ere main 2021,"Massira 1, Marrakech",X5,BMW,90 000 - 94 999,Excellent,2022,Oui,5,WW au Maroc,Diesel,Automatique
+679,350 000 DH,BMW X4 Diesel Automatique 2020 à Marrakech,"M'Hamid, Marrakech",3008,Peugeot,60 000 - 64 999,Très bon,2021,Oui,5,WW au Maroc,Diesel,Automatique
+680,900 000 DH,Mercedez GLE 63S V8 Biturbo Automatique,"Aïn Chock, Casablanca",208,Peugeot,65 000 - 69 999,Excellent,2022,Oui,5,WW au Maroc,Diesel,Manuelle
+681,170 000 DH,BMW Série 5 Diesel Automatique 2012 à Casablanca,"Maarif, Casablanca",Range Rover Sport,Land Rover,110 000 - 119 999,Excellent,2019,Oui,5,WW au Maroc,Diesel,Automatique
+682,52 000 DH,Tucson automatique,"2 Mars, Casablanca",Classe GLC,Mercedes-Benz,150 000 - 159 999,Excellent,2016,Non,5,Dédouanée,Diesel,Automatique
+683,639 000 DH,Range sport autobiographie,"Les Cretes, Mohammedia",Clio,Renault,85 000 - 89 999,Excellent,2021,Oui,5,WW au Maroc,Diesel,Automatique
+684,285 000 DH,Grandland X2024 automatique,"El Houda, Agadir",X4,BMW,160 000 - 169 999,Très bon,2020,Non,5,WW au Maroc,Diesel,Automatique
+685,,Clio 4 limitid 2020 chehr 9,"Jawhara, El Jadida",Classe GLE,Mercedes-Benz,30 000 - 34 999,Excellent,2022,Oui,5,Pas encore dédouanée,Essence,Automatique
+686,110 000 DH,Dacia Duster,"Guich Oudaya, Rabat",Série 5,BMW,200 000 - 249 999,Excellent,2012,Non,5,WW au Maroc,Diesel,Automatique
+687,168 000 DH,Jeep Grand Cherokee Diesel Ouvarland,"Guich Oudaya, Rabat",Classe CLA,Mercedes-Benz,45 000 - 49 999,Excellent,2022,,5,WW au Maroc,Diesel,Automatique
+688,,AUDI A6 40 TDI 204,"Hay Riad, Rabat",Tucson,Hyundai,300 000 - 349 999,Très bon,2004,Non,5,WW au Maroc,Diesel,Automatique
+689,,Hyundai tucson 2020,"Autre secteur, Fès",Range Rover Sport,Land Rover,120 000 - 129 999,Excellent,2019,Oui,5,Importée neuve,Diesel,Automatique
+690,450 000 DH,Range rover sport dynamique 2019,"C.I.L, Casablanca",Grandland,Opel,10 000 - 14 999,Excellent,2024,Oui,5,WW au Maroc,Diesel,Automatique
+691,63 000 DH,KIA OPIRUS ESSENCE V6 2009 REPRISE OK,"Diour Jamaa, Rabat",Clio,Renault,95 000 - 99 999,Excellent,2020,Oui,5,WW au Maroc,Diesel,Manuelle
+692,579 000 DH,Range Rover sport dynamique plus,"Les Cretes, Mohammedia",Duster,Dacia,190 000 - 199 999,Excellent,2013,Non,5,WW au Maroc,Diesel,Manuelle
+693,545 000 DH,Mercedes CLS 350d 2019,"2 Mars, Casablanca",Grand Cherokee,Jeep,100 000 - 109 999,Neuf,2016,Non,5,WW au Maroc,Diesel,Automatique
+694,,Jaguar F-Type 2020 18000 km,"Riviera, Casablanca",2008,Peugeot,75 000 - 79 999,Excellent,2021,Oui,5,WW au Maroc,Diesel,Automatique
+695,105 000 DH,Renault Megane Diesel Manuelle 2013 à Tétouan,"Autre secteur, Tétouan",A6,Audi,20 000 - 24 999,Neuf,2025,Oui,5,WW au Maroc,Diesel,Automatique
+696,96 000 DH,peugeot 2008 clim,"Al Batha, Casablanca",Tucson,Hyundai,200 000 - 249 999,Neuf,2020,Oui,5,WW au Maroc,Diesel,Manuelle
+697,,Audi Q8 Diesel Automatique 2021 à Nador,"Centre Ville, Nador",A7,Audi,140 000 - 149 999,Très bon,2016,Non,5,WW au Maroc,Diesel,Automatique
+698,150 000 DH,BELLE ALFA ROMÉO 159 DIESEL FAIBLE KILOMÉTRAGE,"Les Orangers, Rabat",Opirus,Kia,140 000 - 149 999,Excellent,2009,Non,5,Importée neuve,Essence,Automatique
+699,950 000 DH,Porsche Cayenne Hybride,"Maarif, Casablanca",Range Rover Sport,Land Rover,90 000 - 94 999,Excellent,2019,Non,5,Importée neuve,Diesel,Automatique
+700,323 000 DH,Kia Sportage Design Plus toit et cuire,"Anfa, Casablanca",Classe CLS,Mercedes-Benz,110 000 - 119 999,Très bon,2019,Non,5,Importée neuve,Diesel,Automatique
+701,440 000 DH,Range Rover autobiographie restylee,"Maarif, Casablanca",F-Type,Jaguar,15 000 - 19 999,Neuf,2020,Oui,3,WW au Maroc,Essence,Automatique
+702,,Peugeot 3008 Diesel Automatique à Rabat,"Autre secteur, Rabat",Megane,Renault,200 000 - 249 999,Excellent,2013,Oui,5,Dédouanée,Diesel,Manuelle
+703,140 000 DH,BELLE TOUAREG V6 FAIBLE KILOMÉTRAGE REPRISE OK,"Les Orangers, Rabat",208,Peugeot,130 000 - 139 999,Très bon,2017,Non,5,WW au Maroc,Diesel,Manuelle
+704,112 000 DH,Skoda Octavia Diesel Manuelle 2012 à Agadir,"Extension Dakhla, Agadir",Q8,Audi,60 000 - 64 999,Très bon,2021,Oui,5,Importée neuve,Diesel,Automatique
+705,,Mercedes Benz,"Sala El Jadida, Salé",159,Alfa Romeo,80 000 - 84 999,Excellent,2009,Non,5,WW au Maroc,Diesel,Manuelle
+706,340 000 DH,Jeep Grand Cherokee Diesel Automatique 2022,"Lissasfa, Casablanca",Cayenne,Porsche,80 000 - 84 999,Excellent,2022,Oui,5,WW au Maroc,Hybride,Automatique
+707,184 000 DH,Stellantis - NISSAN Juke - 2021,"Autre secteur, Casablanca",Sportage,Kia,30 000 - 34 999,Excellent,2023,Oui,5,,Diesel,Automatique
+708,598 000 DH,Audi Q8 Diesel Automatique 2020 à Rabat,"Autre secteur, Rabat",Range Rover Sport,Land Rover,100 000 - 109 999,Excellent,2017,,,,Diesel,Automatique
+709,185 000 DH,Opel Crossland X Diesel Automatique 2022 à Agadir,"Autre secteur, Agadir",3008,Peugeot,100 000 - 109 999,Très bon,2018,Oui,5,WW au Maroc,Diesel,Automatique
+710,,Renault Clio Diesel Manuelle 2021 à Rabat,"Autre secteur, Rabat",Touareg,Volkswagen,140 000 - 149 999,Excellent,2007,Non,5,WW au Maroc,Diesel,Automatique
+711,,Mercedes classe V 220d Avantgarde,"Oasis, Casablanca",Octavia,Skoda,200 000 - 249 999,Très bon,2012,Non,5,WW au Maroc,Diesel,Manuelle
+712,273 000 DH,Peugeot 3008 2.0 Allure,"Ain Sebaa, Casablanca",220,Mercedes-Benz,180 000 - 189 999,Bon,2015,Oui,5,Dédouanée,Diesel,Automatique
+713,205 000 DH,Toyota Corolla S,"Bir Rami, Kénitra",Grand Cherokee,Jeep,40 000 - 44 999,Excellent,2022,,,,Diesel,Automatique
+714,,BMW Série 3 diesel 8ch,"Hay Mohammadi, Agadir",Juke,Nissan,25 000 - 29 999,Excellent,2021,,,,Essence,Manuelle
+715,,"Volkswagen Golf 7,5 model 2019 dedouané 2023","Toute la ville, Béni Mellal",Q8,Audi,160 000 - 169 999,Excellent,2020,Oui,5,WW au Maroc,Diesel,Automatique
+716,,Citroën berlingo,"Sala El Jadida, Salé",Crossland,Opel,120 000 - 129 999,Bon,2022,Oui,5,WW au Maroc,Diesel,Automatique
+717,550 000 DH,VW TIGWAN R320 akrapovic,"Centre ville, Tanger",Clio,Renault,140 000 - 149 999,Très bon,2021,Non,5,WW au Maroc,Diesel,Manuelle
+718,,Mercedes-Benz Classe E 300de Pack AMG,"2 Mars, Casablanca",Classe V,Mercedes-Benz,80 000 - 84 999,Excellent,2017,Oui,5,WW au Maroc,Diesel,Automatique
+719,,Volkswagen Tiguan Diesel Automatique 2017,"Massira 2, Marrakech",3008,Peugeot,50 000 - 54 999,Excellent,2019,Oui,5,WW au Maroc,Diesel,Automatique
+720,,Volkswagen Tiguan R-line 4 motion 2019ded 2024,"Toute la ville, Béni Mellal",Corolla,Toyota,80 000 - 84 999,Excellent,2021,Oui,5,WW au Maroc,Hybride,Automatique
+721,,Porsche Macan S Fuul Carbon,"2 Mars, Casablanca",Série 3,BMW,250 000 - 299 999,Très bon,2005,Non,5,Dédouanée,Diesel,Manuelle
+722,,Renault Clio4 limited Manuelle 2021 à Marrakech,"Massira 2, Marrakech",Golf 7,Volkswagen,80 000 - 84 999,Excellent,2019,Non,5,Dédouanée,Diesel,Automatique
+723,,Renault kadjar 2019 automatique,"Sala El Jadida, Salé",Berlingo,Citroen,60 000 - 64 999,Bon,2022,,5,WW au Maroc,Diesel,Manuelle
+724,139 000 DH,Peugeot Expert 9 Places 2019,"Oulfa, Casablanca",Tiguan,Volkswagen,10 000 - 14 999,Excellent,2021,Oui,5,Importée neuve,Essence,Automatique
+725,,Lexus LS 460L,"2 Mars, Casablanca",Classe E,Mercedes-Benz,60 000 - 64 999,Excellent,2022,Oui,5,Importée neuve,Hybride,Automatique
+726,175 000 DH,Hyundai Accent 1.5 Attractive,"Ain Sebaa, Casablanca",Tiguan,Volkswagen,160 000 - 169 999,Excellent,2017,Non,3,WW au Maroc,Diesel,Automatique
+727,660 000 DH,MERCEDES Classe E 220 d AMG line,"Av Abdelkrim El Khattabi, Marrakech",Tiguan,Volkswagen,90 000 - 94 999,Excellent,2019,Oui,5,Dédouanée,Diesel,Automatique
+728,720 000 DH,Audi Q8 S line Diesel,"Maarif, Casablanca",Macan,Porsche,70 000 - 74 999,Excellent,2020,Oui,5,Dédouanée,Essence,Automatique
+729,69 000 DH,Hyundai Tucson automatique,"Hay Mohammadi, Agadir",Clio,Renault,150 000 - 159 999,Excellent,2021,,5,WW au Maroc,Diesel,Manuelle
+730,270 000 DH,Mercedes C220 Amg,"Al Maghrib Al Arabi, Kénitra",Grand Cherokee,Jeep,150 000 - 159 999,Excellent,2019,,3,WW au Maroc,Diesel,Automatique
+731,,Porsche Cayenne Coupe Hybride Pack sport 2023,"Centre ville, Tanger",Expert,Peugeot,90 000 - 94 999,Excellent,2019,Oui,5,WW au Maroc,Diesel,Manuelle
+732,149 000 DH,Renault clio5 diesel,"Narjis, Fès",LS,Lexus,120 000 - 129 999,Excellent,2010,Oui,5,Importée neuve,Essence,Automatique
+733,228 000 DH,Toyota yaris cross hybride,"Hay Riad, Rabat",Accent,Hyundai,35 000 - 39 999,Très bon,2024,Oui,5,WW au Maroc,Essence,Automatique
+734,,Volkswagen passat CC Diesel Manuelle 2010 à Rabat,"Hassan, Rabat",Classe E,Mercedes-Benz,20 000 - 24 999,Excellent,2023,Non,5,Dédouanée,Diesel,Automatique
+735,117 000 DH,Toyota Auris Diesel Manuelle 2014 à Kénitra,"Autre secteur, Kénitra",Q8,Audi,100 000 - 109 999,Excellent,2020,Oui,5,WW au Maroc,Diesel,Automatique
+736,265 000 DH,citroen,"Toute la ville, Larache",Tucson,Hyundai,300 000 - 349 999,Excellent,2007,Non,5,WW au Maroc,Diesel,Automatique
+737,,Peugeot 306 modèle 2001,"Autre secteur, Agadir",Classe C,Mercedes-Benz,180 000 - 189 999,Très bon,2014,,5,Dédouanée,Diesel,Automatique
+738,185 000 DH,Hyundai creta 2020 diesel,"Wilaya, Tétouan",Cayenne,Porsche,20 000 - 24 999,Très bon,2023,Oui,5,Importée neuve,Hybride,Automatique
+739,122 000 DH,clio 4 automatique,"Oulfa, Casablanca",Clio,Renault,60 000 - 64 999,Excellent,2021,Oui,5,WW au Maroc,Diesel,Manuelle
+740,39 000 DH,MERCEDES 190 D 92 dédouaner 2005,"Autre secteur, Rabat",Yaris,Toyota,20 000 - 24 999,Excellent,2023,,5,WW au Maroc,Hybride,Automatique
+741,212 000 DH,Abarth 595 Essence Automatique 2017 à Casablanca,"2 Mars, Casablanca",190,Mercedes-Benz,350 000 - 399 999,Excellent,1991,Oui,5,Dédouanée,Diesel,Manuelle
+742,,Volkswagen Golf 7 Diesel Automatique 2019 à Fès,"Agdal, Fès",Passat CC,Volkswagen,170 000 - 179 999,Excellent,2010,Non,5,Dédouanée,Diesel,Automatique
+743,58 000 DH,Volvo XC90 Essence,"2 Mars, Casablanca",Auris,Toyota,200 000 - 249 999,Excellent,2014,Non,5,WW au Maroc,Diesel,Manuelle
+744,,Mitsubishi L200 Diesel Automatique 2022 à Salé,"Sala El Jadida, Salé",Série 5,BMW,60 000 - 64 999,,2021,Oui,5,WW au Maroc,Diesel,Automatique
+745,,Audi SQ8 Electrique Automatique 2020 à Casablanca,"2 Mars, Casablanca",C4,Citroen,45 000 - 49 999,Très bon,2024,Oui,5,WW au Maroc,Diesel,Automatique
+746,,Toyota Yaris Essence Manuelle 2019 à Marrakech,"Massira 2, Marrakech",306,Peugeot,250 000 - 299 999,Très bon,2001,,,,Essence,Manuelle
+747,,Dacia dokker ClimVAN,"Centre Ville, Casablanca",Creta,Hyundai,40 000 - 44 999,Excellent,2020,Non,5,WW au Maroc,Diesel,Manuelle
+748,106 000 DH,Dacia dokker 2017 1ere main 🤚,"Sidi Bernoussi, Casablanca",Clio,Renault,130 000 - 139 999,,2019,,5,WW au Maroc,Diesel,Automatique
+749,,Porsche Cayenne coupé fuul Carbon,"2 Mars, Casablanca",Megane,Renault,180 000 - 189 999,Excellent,2017,Non,5,WW au Maroc,Diesel,Manuelle
+750,,Mercedes-Benz Classe GLC 300de (Importée Neuve),"Anfa, Casablanca",190,Mercedes-Benz,200 000 - 249 999,Excellent,1992,,5,Dédouanée,Diesel,Manuelle
+751,242 000 DH,Jeep cherokee night Eagles,"2 Mars, Casablanca",595,Abarth,70 000 - 74 999,Excellent,2017,Oui,3,WW au Maroc,Essence,Automatique
+752,164 999 DH,Opel Crossland X Diesel Manuelle 2019 à Casablanca,"Sidi Bernoussi, Casablanca",Golf 7,Volkswagen,120 000 - 129 999,Excellent,2019,Oui,5,WW au Maroc,Diesel,Automatique
+753,,Volkswagen Tiguan R-line 2021 dedouané 2025,"Toute la ville, Béni Mellal",XC90,Volvo,160 000 - 169 999,Très bon,2011,Non,5,WW au Maroc,Essence,Automatique
+754,149 000 DH,Renault clio5 diesel,"Narjis, Fès",L200,Mitsubishi,80 000 - 84 999,Bon,2022,,,WW au Maroc,Diesel,Automatique
+755,228 000 DH,Toyota yaris cross hybride,"Hay Riad, Rabat",Q8,Audi,45 000 - 49 999,Excellent,2020,Non,5,Importée neuve,Electrique,Automatique
+756,,Volkswagen passat CC Diesel Manuelle 2010 à Rabat,"Hassan, Rabat",Yaris,Toyota,95 000 - 99 999,Excellent,2019,,5,WW au Maroc,Essence,Manuelle
+757,117 000 DH,Toyota Auris Diesel Manuelle 2014 à Kénitra,"Autre secteur, Kénitra",Logan,Dacia,100 000 - 109 999,Excellent,2021,Oui,5,WW au Maroc,Diesel,Manuelle
+758,265 000 DH,citroen,"Toute la ville, Larache",Dokker,Dacia,160 000 - 169 999,Excellent,2017,Oui,5,WW au Maroc,Diesel,Manuelle
+759,,Peugeot 306 modèle 2001,"Autre secteur, Agadir",Cayenne,Porsche,70 000 - 74 999,Excellent,2022,Oui,5,Importée neuve,Hybride,Automatique
+760,185 000 DH,Hyundai creta 2020 diesel,"Wilaya, Tétouan",Classe GLC,Mercedes-Benz,0 - 4 999,Excellent,2025,,5,Importée neuve,Hybride,Automatique
+761,122 000 DH,clio 4 automatique,"Oulfa, Casablanca",Cherokee,Jeep,95 000 - 99 999,Excellent,2021,Oui,5,WW au Maroc,Diesel,Automatique
+762,39 000 DH,MERCEDES 190 D 92 dédouaner 2005,"Autre secteur, Rabat",Crossland,Opel,100 000 - 109 999,Très bon,2019,Non,5,WW au Maroc,Diesel,Manuelle
+763,212 000 DH,Abarth 595 Essence Automatique 2017 à Casablanca,"2 Mars, Casablanca",Tiguan,Volkswagen,90 000 - 94 999,Excellent,2021,Oui,5,Dédouanée,Diesel,Automatique
+764,,Volkswagen Golf 7 Diesel Automatique 2019 à Fès,"Agdal, Fès",Clio,Renault,60 000 - 64 999,Excellent,2021,Oui,5,WW au Maroc,Diesel,Manuelle
+765,58 000 DH,Volvo XC90 Essence,"2 Mars, Casablanca",Yaris,Toyota,20 000 - 24 999,Excellent,2023,,5,WW au Maroc,Hybride,Automatique
+766,,Mitsubishi L200 Diesel Automatique 2022 à Salé,"Sala El Jadida, Salé",190,Mercedes-Benz,350 000 - 399 999,Excellent,1991,Oui,5,Dédouanée,Diesel,Manuelle
+767,,Audi SQ8 Electrique Automatique 2020 à Casablanca,"2 Mars, Casablanca",Passat CC,Volkswagen,170 000 - 179 999,Excellent,2010,Non,5,Dédouanée,Diesel,Automatique
+768,,Toyota Yaris Essence Manuelle 2019 à Marrakech,"Massira 2, Marrakech",Auris,Toyota,200 000 - 249 999,Excellent,2014,Non,5,WW au Maroc,Diesel,Manuelle
+769,,Dacia dokker ClimVAN,"Centre Ville, Casablanca",Série 5,BMW,60 000 - 64 999,,2021,Oui,5,WW au Maroc,Diesel,Automatique
+770,106 000 DH,Dacia dokker 2017 1ere main 🤚,"Sidi Bernoussi, Casablanca",C4,Citroen,45 000 - 49 999,Très bon,2024,Oui,5,WW au Maroc,Diesel,Automatique
+771,,Porsche Cayenne coupé fuul Carbon,"2 Mars, Casablanca",306,Peugeot,250 000 - 299 999,Très bon,2001,,,,Essence,Manuelle
+772,,Mercedes-Benz Classe GLC 300de (Importée Neuve),"Anfa, Casablanca",Creta,Hyundai,40 000 - 44 999,Excellent,2020,Non,5,WW au Maroc,Diesel,Manuelle
+773,242 000 DH,Jeep cherokee night Eagles,"2 Mars, Casablanca",Clio,Renault,130 000 - 139 999,,2019,,5,WW au Maroc,Diesel,Automatique
+774,164 999 DH,Opel Crossland X Diesel Manuelle 2019 à Casablanca,"Sidi Bernoussi, Casablanca",Megane,Renault,180 000 - 189 999,Excellent,2017,Non,5,WW au Maroc,Diesel,Manuelle
+775,,Volkswagen Tiguan R-line 2021 dedouané 2025,"Toute la ville, Béni Mellal",190,Mercedes-Benz,200 000 - 249 999,Excellent,1992,,5,Dédouanée,Diesel,Manuelle
+776,,VOLVO XC40 T3 diesel,"Oasis, Casablanca",595,Abarth,70 000 - 74 999,Excellent,2017,Oui,3,WW au Maroc,Essence,Automatique
+777,,Mercedes-Benz CLA 2025 importer neuf 0km,"Riviera, Casablanca",Golf 7,Volkswagen,120 000 - 129 999,Excellent,2019,Oui,5,WW au Maroc,Diesel,Automatique
+778,150 000 DH,Volkswagen Touareg Diesel Automatique 2015,"Extension Dakhla, Agadir",XC90,Volvo,160 000 - 169 999,Très bon,2011,Non,5,WW au Maroc,Essence,Automatique
+779,659 000 DH,Audi rsq3 black édition,"Les Cretes, Mohammedia",L200,Mitsubishi,80 000 - 84 999,Bon,2022,,,WW au Maroc,Diesel,Automatique
+780,,Volkswagen Tiguan 2.0 Diesel,"Centre ville, Tétouan",Q8,Audi,45 000 - 49 999,Excellent,2020,Non,5,Importée neuve,Electrique,Automatique
+781,,Range Rover Sport Autobiographie,"Maarif, Casablanca",Yaris,Toyota,95 000 - 99 999,Excellent,2019,,5,WW au Maroc,Essence,Manuelle
+782,340 000 DH,Jeep Grand Cherokee Diesel Automatique 2022,"Maarif, Casablanca",Logan,Dacia,100 000 - 109 999,Excellent,2021,Oui,5,WW au Maroc,Diesel,Manuelle
+783,,Renault Kangoo,"Hassan, Rabat",Dokker,Dacia,160 000 - 169 999,Excellent,2017,Oui,5,WW au Maroc,Diesel,Manuelle
+784,,Renault Clio 5,"Hassan, Rabat",Cayenne,Porsche,70 000 - 74 999,Excellent,2022,Oui,5,Importée neuve,Hybride,Automatique
+785,,Q8 facelifte full,"Maarif, Casablanca",Classe GLC,Mercedes-Benz,0 - 4 999,Excellent,2025,,5,Importée neuve,Hybride,Automatique
+786,,Mercedes-Benz Classe E Diesel Automatique 2017,"Hay Riad, Rabat",Cherokee,Jeep,95 000 - 99 999,Excellent,2021,Oui,5,WW au Maroc,Diesel,Automatique
+787,,kia sportage 2022,"Autre secteur, Fès",Crossland,Opel,100 000 - 109 999,Très bon,2019,Non,5,WW au Maroc,Diesel,Manuelle
+788,,Mercedes classe GLA 220 dédouanée 2019,"Autre secteur, Fès",Tiguan,Volkswagen,90 000 - 94 999,Excellent,2021,Oui,5,Dédouanée,Diesel,Automatique
+789,,BMW X3 Diesel Automatique 2021,"Guich Oudaya, Rabat",XC40,Volvo,95 000 - 99 999,Excellent,2020,Oui,5,WW au Maroc,Diesel,Automatique
+790,,Golf 8 GTI essence,"2 Mars, Casablanca",Classe CLA,Mercedes-Benz,0 - 4 999,Neuf,2025,Oui,5,Importée neuve,Diesel,Automatique
+791,,Peugeot 208 Diesel Manuelle 2019 à Agadir,"Extension Dakhla, Agadir",Touareg,Volkswagen,160 000 - 169 999,Très bon,2015,Non,5,WW au Maroc,Diesel,Automatique
+792,570 000 DH,bmw serie 5,"Al Qods, Casablanca",Q3,Audi,65 000 - 69 999,Excellent,2021,Oui,5,Importée neuve,Essence,Automatique
+793,,Tesla model 3,"Aïn Chock, Casablanca",Tiguan,Volkswagen,190 000 - 199 999,Très bon,2008,Oui,5,Dédouanée,Diesel,Automatique
+794,,Audi Q8 exclusive,"Hay Riad, Rabat",Range Rover Sport,Land Rover,30 000 - 34 999,Excellent,2024,Oui,5,Importée neuve,Diesel,Automatique
+795,,JEEP Grand Cherokee 3.0 V6 4WD Overland,"Hay Riad, Rabat",Grand Cherokee,Jeep,70 000 - 74 999,Excellent,2022,Oui,3,Dédouanée,Diesel,Automatique
+796,143 000 DH,Dokker2021 6portes,"El Houda, Agadir",Express,Renault,120 000 - 129 999,Excellent,2019,Oui,5,WW au Maroc,Diesel,Manuelle
+797,,BMW X5 2.5d Exclusive à Casablanca,"Oasis, Casablanca",Clio,Renault,90 000 - 94 999,Excellent,2021,Non,5,WW au Maroc,Diesel,Manuelle
+798,249 000 DH,Geely COOLRAY Essence Automatique 2023,"Sidi Bernoussi, Casablanca",Q8,Audi,0 - 4 999,Neuf,2025,Oui,5,Importée neuve,Diesel,Automatique
+799,197 000 DH,Toyota C-HR Essence Automatique 2019 à Casablanca,"Anfa, الدار البيضاء",Classe E,Mercedes-Benz,110 000 - 119 999,Excellent,2017,Non,5,WW au Maroc,Diesel,Automatique
